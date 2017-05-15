@@ -1,5 +1,6 @@
 from lxml import html
 import requests
+import time
 
 dogsUrl = []
 for pageNum in range(1, 20):
@@ -8,6 +9,7 @@ for pageNum in range(1, 20):
   urls = tree.xpath('//div[@class="list"]/div[1]/div[2]/div[1]/p/a/@href')
   dogsUrl.extend(urls);
   print "Dog: Page " + str(pageNum) + " read"
+  time.sleep(0.5)
 
 print "Total: " + str(len(dogsUrl)) + "\n"
 
@@ -29,6 +31,7 @@ for url in dogsUrl:
   
   print dog + ": DONE (" + str(count) + "/" + str(len(dogsUrl)) + ")"
   count += 1
+  time.sleep(1)
 
 allCats = []
 for pageNum in range(1, 5):
