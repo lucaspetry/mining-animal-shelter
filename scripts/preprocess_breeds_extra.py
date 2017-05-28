@@ -8,6 +8,7 @@ with open('../data/extra_breeds_list.csv') as f:
 idx_type = extra_data[0].index('type')
 idx_breed = extra_data[0].index('breed')
 idx_other_names = extra_data[0].index('other_names')
+idx_size = extra_data[0].index('size')
 idx_life_span = extra_data[0].index('life_span')
 idx_price = extra_data[0].index('price')
 idx_adaptability = extra_data[0].index('adaptability')
@@ -46,10 +47,11 @@ for line in extra_data:
     price_low = price[0]
     price_high = price[1]
   
-  output.write(line[idx_type] + ",\"" + line[idx_breed] + "\",\"" + line[idx_other_names] + "\"," + life_span_low + "," + \
-              life_span_high + "," + price_low + "," + price_high + "," + line[idx_adaptability] + "," + \
-              line[idx_child_friendly] + "," + line[idx_cat_dog_friendly] + "," + line[idx_grooming] + "," + \
-              line[idx_health_issues] + "," + line[idx_intelligence] + "," + line[idx_shedding_level] + "\n")
+  output.write(line[idx_type] + ",\"" + line[idx_breed] + "\",\"" + line[idx_other_names] + "\"," + \
+               line[idx_size] + "," + life_span_low + "," + life_span_high + "," + price_low + "," + \
+               price_high + "," + line[idx_adaptability] + "," + line[idx_child_friendly] + "," + \
+               line[idx_cat_dog_friendly] + "," + line[idx_grooming] + "," + line[idx_health_issues] + "," + \
+               line[idx_intelligence] + "," + line[idx_shedding_level] + "\n")
   output.flush()
   print "Line " + str(count) + " processed!"
   count += 1
