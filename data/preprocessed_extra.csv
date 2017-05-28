@@ -1,0 +1,435 @@
+type,breed,other_names,size,life_span_low,life_span_high,price_low,price_high,adaptability,child_friendly,cat_dog_friendly,grooming,health_issues,intelligence,shedding_level
+Dog,"Labrador Retriever","Labrador, Lab",10,12,1000,2000,5,5,4,1,3,5,3
+Dog,"German Shepherd","Alsatian (UK), Alsatian wolf dog (UK), Berger Allemand, Deutscher Sch?ferhund, Sch?ferhund",10,13,800,2000,5,5,3,3,4,5,5
+Dog,"Golden Retriever","Yellow Retriever, Golden Flat Coat",10,12,1000,2000,5,5,4,3,4,5,3
+Dog,"Bulldog","English Bulldog, British Bulldog",8,10,1200,2000,5,5,5,3,5,3,3
+Dog,"Beagle","English Beagle",12,15,500,800,5,5,3,1,3,3,3
+Dog,"French Bulldog","Frenchie, Bouledogue Fran?ais",10,12,2000,4000,5,2,2,2,3,3,2
+Dog,"Poodle (Standard)","Caniche, Barbone, Chien Canne, Grosse Pudel, French Poodle",12,15,1000,1500,5,5,4,5,3,5,1
+Dog,"Rottweiler","Rottie, Rott",8,11,1200,2000,3,2,3,1,3,5,3
+Dog,"Yorkshire Terrier","Yorkie",12,16,600,1000,5,1,4,5,4,5,1
+Dog,"Boxer","German Boxer, Deutscher Boxer",10,12,600,1200,4,4,3,1,3,4,3
+Dog,"German Shorthaired Pointer","GSP, DK, Kurzhaar, Deutscher Kurzhaariger Vorstehhund, Deutsch Kurzhaar",12,14,600,800,4,4,1,1,4,5,3
+Dog,"Siberian Husky","Chukcha, Chuksha, Husky, Icee, Sibe",12,14,700,1200,5,4,1,3,3,4,4
+Dog,"Dachshund (Toy, Miniature, Standard)","Teckel, Tekkel, Tekkel Doxie, Weenie Dog, Sausage Dog, Bassotto, Worshond",12,15,500,700,5,2,3,2,3,4,1
+Dog,"Great Dane","Dane, Gentle Giant, Deutsche Dogge, German Mastiff",7,10,800,1200,3,4,3,1,4,4,3
+Dog,"Doberman Pinscher","Dobie, Dobermann, Dobynm, Doberman",10,12,800,1000,5,3,3,2,4,5,3
+Dog,"Australian Shepherd","Aussie, Little Blue Dog",12,15,600,800,5,5,3,3,3,4,3
+Dog,"Miniature Schnauzer","Zwergschnauzer",12,14,600,1000,5,4,3,4,3,5,1
+Dog,"Pembroke Welsh Corgi","Pembroke, PWC, Pem, Corgi",12,14,600,1000,5,5,5,2,3,5,5
+Dog,"Cavalier King Charles Spaniel","Cav, Cavalier, Cavie",10,14,1200,1500,5,5,3,3,4,4,3
+Dog,"Shih Tzu","Chinese Lion Dog, Chrysanthemum Dog",10,16,800,1200,5,2,5,5,3,3,1
+Dog,"Boston Terrier","Boston Bull, Boston Bull Terrier, Boxwood, American Gentlemen",12,15,600,800,5,5,5,1,3,4,3
+Dog,"Pomeranian","Pom, Pom Pom, Deutsche Spitze, Zwergspitz, Spitz Nain, Spitz Enano, Zwers",12,16,600,800,5,2,5,3,3,5,3
+Dog,"Havanese","Bichon Habanero, Havanese Cuban Bichon, Bichon Havanais, Bichon Havan?s, Havaneser, Havanezer",14,16,900,1200,5,5,5,3,3,2,1
+Dog,"Shetland Sheepdog","Miniature Collie, Shetland Collie (obsolete), Dwarf Scotch Shepherd (obsolete), Toonie Dog (obsolete), Sheltie",12,14,800,1000,5,4,5,5,3,5,3
+Dog,"Brittany","Epagneul Breton, Brittany Spaniel, American Brittany, Brittany Wiegref",12,15,700,800,5,5,3,2,3,1,2
+Dog,"English Springer Spaniel","Springer Spaniel",10,14,700,800,5,4,3,4,4,5,3
+Dog,"Bernese Mountain Dog","Berner Sennenhund, Bernese Cattle Dog, Berner",7,10,800,1000,3,4,3,3,5,5,4
+Dog,"Mastiff","English Mastiff, Old English Mastiff",10,12,1200,1500,5,5,5,2,4,3,3
+Dog,"American Cocker Spaniel","Cocker Spaniel, Cocker, Merry Cocker",12,15,600,800,5,5,3,5,4,5,3
+Dog,"Chihuahua","None",14,18,600,800,5,1,5,1,4,3,1
+Dog,"Vizsla","Hungarian Vizsla, Magyar Vizsla, Hungarian Pointer, Drotszoru Magyar Vizsla",10,14,800,1200,5,4,3,1,3,5,3
+Dog,"Pug","Chinese Pug, Dutch Bulldog, Dutch Mastiff, Mini Mastiff, Mops, Carlin",12,15,300,500,5,4,5,1,5,4,4
+Dog,"Maltese","Maltese Dog, Maltese lion dog",15,18,600,800,5,4,5,3,3,4,1
+Dog,"Weimaraner","Weimaraner Vorstehhund, Weim, Grey Ghost",10,12,600,800,5,2,4,1,1,5,3
+Dog,"Newfoundland","Newf, Newfie, The Gentle Giant, Blackbear",9,12,1500,2000,4,5,5,5,5,4,5
+Dog,"Miniature American Shepherd","North American Shepherd, Mini American, MAS, Ameri",13,15,900,1000,4,4,3,2,2,3,3
+Dog,"Collie","Rough Collie, Scottish Collie, Long-Haired Collie, English Collie, Lassie Dog",14,16,400,600,4,5,5,5,4,5,5
+Dog,"Border Collie","Scotch Sheep Dog, Sheepdog",12,15,600,800,5,5,3,3,3,5,3
+Dog,"Basset Hound","Basset, Hush Puppy",10,12,300,500,5,5,5,2,3,3,3
+Dog,"Cane Corso","Cane Corz, Italian Mastiff, Cane Di Macellaio",10,11,1500,2000,2,3,1,1,4,2,3
+Dog,"West Highland White Terrier","Poltalloch Terrier, Roseneath Terrier, White Roseneath Terrier, Westie (or Westy)",12,16,900,1200,4,4,3,4,5,4,1
+Dog,"Rhodesian Ridgeback","African Lion Dog, African Lion Hound",10,12,900,1200,4,5,2,1,3,4,1
+Dog,"Chesapeake Bay Retriever","Chessie, CBR, Chesapeake",10,13,700,900,3,4,3,2,3,5,3
+Dog,"Shiba Inu","Brushwood Dog, Japanese Small-Size Dog, Japanese Shiba Inu, Shiba Ken, Shiba",12,15,800,1000,4,3,2,2,3,2,4
+Dog,"Bichon Frise","Tenerife Dog, Bichon Tenerife, Bichon A Poil Frise, Bichon Tenerife, Purebred Bichon",12,15,700,1000,5,4,5,5,3,4,1
+Dog,"Akita","Great Japanese Dog, Japanese Akita, American Akita",10,14,800,1200,5,4,3,2,3,4,5
+Dog,"Belgian Malinois","Malinois, Chien De Berger Belge, Mechelaar, Mechelse Herder, Mechelse Scheper, Pastor Belga Malinois",12,14,600,800,5,4,3,1,3,3,3
+Dog,"Bullmastiff","Bully, Bullie",8,10,1200,1500,3,4,1,2,5,3,3
+Dog,"St. Bernard (Saint Bernard)","St. Hubert Hound, Chien St. Hubert, Sleuth Hound",8,10,1500,1800,4,4,5,3,5,3,4
+Dog,"Soft Coated Wheaten Terrier","Wheaten, Wheatie, Irish Soft-Coated Wheaten Terrier",12,15,800,1000,5,4,1,5,3,4,2
+Dog,"Portuguese Water Dog","Portie, PWD, Water Dog, Cao De Agua",10,14,2500,2800,5,4,4,3,3,2,1
+Dog,"Bloodhound","St. Hubert Hound, Chien St. Hubert, Sleuth Hound",10,12,800,1200,3,5,5,2,5,3,3
+Dog,"Papillon","Butterfly Dog, Squirrel Dog, Phal?ne, Epagneul Nain, Phal?ne (Drop Ear Type), Continental Toy Spaniel, Epagneul Nain Continental",13,16,400,600,5,4,5,3,3,5,1
+Dog,"Australian Cattle Dog","Queensland Heeler, Blue Heeler, Hall's Heeler, ACD, Cattle Dog, Red Heeler",12,15,500,700,3,5,3,1,3,5,3
+Dog,"Airedale Terrier","Waterside Terrier, Bingley Terrier, Irish Red Terrier",10,13,600,800,5,4,1,4,2,5,2
+Dog,"English Cocker Spaniel","Cocker, Merry Cocker Woker",12,14,900,1200,5,5,4,3,3,5,3
+Dog,"Bull Terrier","English Bull Terrier, Bully, Gladiator",10,12,1200,1500,4,4,2,1,5,3,3
+Dog,"Scottish Terrier","Scottie, Aberdeenie",11,13,800,1000,3,4,3,3,4,4,1
+Dog,"Alaskan Malamute","Mal, Mally",12,15,1200,1500,3,4,1,3,3,4,5
+Dog,"Whippet","English Whippet, Snap Dog",12,15,800,1200,5,4,1,1,3,4,2
+Dog,"Chinese Shar-Pei","Chinese Fighting Dog",8,10,1000,1200,3,1,3,3,5,4,1
+Dog,"Dogue de Bordeaux","French Mastiff, Bordeaux Mastiff, Bordeauxdog",10,12,1000,1300,3,4,4,2,5,2,3
+Dog,"German Wirehaired Pointer","Deutscher Drahthaariger, Vorstehund, German Pointer (Wirehaired), Drahthaar",12,14,700,900,5,3,1,3,2,4,3
+Dog,"Samoyed","Samoyedskaya, Bjelkier, Samoiedskaya Sobaka, Nenetskaya Laika, Smiley, Sammy",12,14,1200,1500,4,5,3,4,3,4,4
+Dog,"Dalmatian","Dal, Dally, Carriage Dog, Spotted Coach Dog, Firehouse Dog, Plum Pudding Dog",12,14,700,900,5,5,3,1,4,4,5
+Dog,"Wirehaired Pointing Griffon","Korthals Griffon, Griffon D'arr?t ? Poil Dur, Korthals",12,14,600,800,3,4,3,3,2,4,1
+Dog,"Great Pyrenees","Great Pyrenees, Patou, Chien Des Pyr?n?es, Chien De Montagne Des Pyr?n?es, Monta??s Del Pirineo, Gos De Muntanya Dels Pirineus",10,12,700,900,4,4,4,3,5,3,4
+Dog,"Miniature Pinscher","Min Pin, King Of The Toys, Reh Pinscher, Zwergpinsc",12,15,400,600,5,4,3,1,2,4,3
+Dog,"Cardigan Welsh Corgi","Cardigan, CWC, Cardi",12,15,1000,1200,5,5,5,3,2,5,4
+Dog,"Cairn Terrier","Cairn, Toto Dog",12,15,700,1000,3,4,3,3,2,4,3
+Dog,"Lhasa Apso","Lhasa, Lion Dog",12,15,500,700,5,5,5,5,2,3,4
+Dog,"Italian Greyhound","French: Petit Levrier Italiane, Italian: Piccolo Levriero Italiano, German: Italienisches Windspiel, Spanish: Galgo Italiano",12,15,800,1000,5,1,3,1,3,3,1
+Dog,"Irish Wolfhound","C? Faoil",6,10,1800,2000,4,4,3,3,5,4,3
+Dog,"Chow Chow","Chow, Chowdren",13,15,600,800,2,2,2,5,3,3,4
+Dog,"Old English Sheepdog","OES",10,12,1200,1500,3,5,3,5,3,3,5
+Dog,"Irish Setter","Red Setter, Irish Red Setter",12,14,800,1000,5,5,5,4,3,4,3
+Dog,"Chinese Crested","Crested, Puff",12,14,800,1000,3,4,4,3,3,3,1
+Dog,"Greater Swiss Mountain Dog","Great Swiss Mountain Dog, Swissy",10,12,2000,2500,3,4,3,1,3,2,1
+Dog,"Giant Schnauzer","Russian Bear Schnauzer, Munich Schnauzer, Munchener, Riesenschnauzer",10,12,1000,1500,3,2,2,3,4,5,1
+Dog,"Coton De Tulear","Coton, Cotie",14,16,1000,1200,5,4,5,5,3,3,2
+Dog,"American Staffordshire Terrier","Amstaff, Stafford, Staffy",12,14,800,1000,3,4,1,1,3,4,1
+Dog,"Staffordshire Bull Terrier","Staffy, Staff, SBT, Stafford, Staffy Bull",12,14,1500,2000,3,4,2,1,3,4,1
+Dog,"Bouvier des Flandres","Belgian Cattle Dog, Flanders Cattle Dog, Vlaamse Koehond",10,12,1500,2000,5,5,3,5,3,5,3
+Dog,"Anatolian Shepherd Dog","Coban Kopegi, Karabash Dog, Kara Bas, Kangal Dog, Kham Kepiji Dogs, Scandinavian Nygaard Dogs",10,13,700,900,2,4,2,2,4,2,5
+Dog,"Standard Schnauzer","Mittelschnauzer, Schnauzer, Wirehair Pinscher",12,15,1200,1500,3,4,4,5,1,5,1
+Dog,"Border Terrier","Russian Bear Schnauzer, Munich Schnauzer, Munchener, Riesenschnauzer",12,15,1200,1400,5,5,2,3,2,5,1
+Dog,"Nova Scotia Duck Tolling Retriever","Toller, Scotty, Novie, Little River Duck Dog",12,14,1800,2000,5,5,3,2,4,2,3
+Dog,"Basenji","Congo Dog, Congo Terrier, African Bush Dog, African Barkless Dog, Ango Angari, Zande Dog",10,12,1000,1200,2,4,2,1,3,3,1
+Dog,"Flat-Coated Retriever","Flatcoat, Flattie, Flatte",10,13,1000,1200,5,4,3,2,5,5,3
+Dog,"Jack Russell Terrier","Russell Terrier, JRT, Jack",13,16,700,1000,5,4,2,2,3,2,5
+Dog,"Tibetan Terrier","Tsang Apso, Dokhi Apso",12,15,1200,2000,5,3,3,5,3,3,1
+Dog,"Keeshond","Dutch Barge Dog, Smiling Dutchman, Chien Loup, German Spitz, Deutscher Wolfsspitz, Wolfsspitz, Kees",12,14,800,1000,5,4,4,4,3,5,5
+Dog,"Pekingese","Peking Lion Dog, Lion Dog, Chinese Spaniel, Pelchie Dog, Peking Palasthund, Peke",13,15,600,800,5,1,5,5,4,3,3
+Dog,"Norwegian Elkhound","Elkhound, Norsk Elghund, Gr? Norsk Elghund, Gray Norwegian Elkhound, Small Grey Elk Dog, Norwegian Moose Dog, Harmaa Norjanhirvikoira",10,12,500,700,5,4,3,3,3,4,4
+Dog,"Leonberger","Leo, Gentle Lion, Gentle Giant",8,10,1500,2000,3,5,3,5,5,2,5
+Dog,"Rat Terrier","American Rat Terrier, Ratting Terrier, Decker Giant, RT, Rat, Rattie",15,18,300,500,5,5,4,1,3,2,4
+Dog,"Brussels Griffon","Griffon Belge, Griffon Bruxellois, Belgian Griffon, Petit Braban?on, Griffon, Griff, Bruss",12,15,800,1000,4,1,5,5,3,2,1
+Dog,"Borzoi","Russian Wolfhound, Barzo?, Russkaya Psovaya Borzaya, Psovoi",10,12,1000,1200,3,2,1,4,3,3,5
+Dog,"Neapolitan Mastiff","Neo, Italian Bulldog, Italian Mastiff, Mastino Napoletano, Italian Molosso, Can'E Presa",8,10,1500,2000,2,3,3,2,5,2,3
+Dog,"Silky Terrier","Sydney Silky, Australian Silky Terrier",12,15,600,800,3,4,3,4,3,4,1
+Dog,"Wire Fox Terrier","Foxie, Wire Hair Fox Terrier, Wirehaired Terrier",12,14,800,1000,5,5,1,3,3,3,1
+Dog,"English Setter","Lawerack, Laverack, Llewellin (or Llewellyn) Setter",10,12,400,600,3,5,4,3,3,4,3
+Dog,"Norwich Terrier","None",12,15,1400,2000,5,4,4,3,2,4,1
+Dog,"Gordon Setter","Gordon Castle Setters",10,12,800,1000,5,5,3,4,3,4,3
+Dog,"Spinone Italiano","Italian Spinone, Spinone, Italian Griffon, Italian Wire-Haired Pointer, Italian Coarsehaired Pointer",12,14,1500,2000,3,5,3,3,3,2,1
+Dog,"American Hairless Terrier","AHT",14,16,300,500,3,4,3,4,3,3,1
+Dog,"Belgian Tervuren","Tervuren, Chien De Berger Belge",10,12,1200,1500,5,4,2,3,3,5,5
+Dog,"Japanese Chin","Chin, Japanese Spaniel",10,12,300,500,5,2,5,3,3,3,3
+Dog,"Parson Russell Terrier","Jack Russell Terrier, Parson, Parson Jack Russell Terrier",13,15,400,600,5,4,1,2,3,2,3
+Dog,"Boykin Spaniel","Boykin, Swamp Poodle, LBD (Little Brown Dog)",14,16,800,1000,5,4,3,3,3,2,3
+Dog,"Welsh Terrier","Welshie, WT",10,14,800,1200,5,4,1,4,2,3,1
+Dog,"Schipperke","Spitzke, Spits, Spitske",13,15,600,1000,5,4,4,2,3,5,3
+Dog,"Afghan Hound","Baluchi Hound, Tazi, Tazhi Spay, Da Kochyano Spay, Sage Balochi, Ogar Afgan, Eastern Greyhound / Persian Greyhound",12,14,2000,2500,5,4,2,5,3,3,3
+Dog,"Lagotto Romagnolo","Romagna Water Dog, Lagotto, Water Dog of Romagna, Lagotti Romagnoli",14,16,500,700,3,4,3,5,3,3,2
+Dog,"Irish Terrier","Irish Red Terrier, Daredevil",12,15,600,800,5,4,2,4,2,4,1
+Dog,"Toy Fox Terrier","American Toy Terrier, Amertoy",13,14,400,600,5,2,5,1,3,2,3
+Dog,"Pointer","English Pointer",12,15,400,500,5,5,1,1,1,2,1
+Dog,"Tibetan Spaniel","Tibbie, Simkhyi",12,15,800,1000,5,4,5,3,2,4,1
+Dog,"Black Russian Terrier","Chornyi, Terrier Noir Russem, Schwarzer Russicher Terrier, Tchiorny Terrier, Mustaterrieri, Black Terrier, Russian Bear Schnauzer, BRT, Stalin's Dog",10,14,1800,2500,3,3,3,3,2,2,1
+Dog,"Miniature Bull Terrier","Bull Terrier (Miniature)",10,12,1200,2000,4,4,1,1,3,2,3
+Dog,"Bluetick Coonhound","None",11,12,500,600,5,4,3,1,1,2,3
+Dog,"American Eskimo Dog (Toy, Miniature, Standard)","Eskimo Spitz, American Spitz, German Spitz, Eskie",12,15,600,800,5,4,3,3,3,2,5
+Dog,"Welsh Springer Spaniel","Welsh Springer, Welsh Cocker Spaniel, Welsh Starter, Welshie",12,15,1200,1400,5,5,3,3,3,4,3
+Dog,"Smooth Fox Terrier","Fox Terrier, Foxie, SFT",12,15,700,1000,5,5,1,2,3,4,3
+Dog,"Saluki","Gazelle Hound, Persian Greyhound",12,14,600,800,5,4,2,1,3,4,1
+Dog,"Bearded Collie","Highland Collie, Mountain Collie, Argle Bargle, Hairy Mou'ed Collie, Beardie",12,14,1200,1400,5,4,4,5,3,4,4
+Dog,"Kerry Blue Terrier","Kerry, Irish Blue Terrier",12,15,500,600,5,4,2,5,3,4,1
+Dog,"Black and Tan Coonhound","American Black And Tan Coonhound",10,12,300,400,5,5,5,1,3,4,5
+Dog,"Belgian Sheepdog","Groenendael, Chien De Berger Belge",12,14,1200,1400,5,4,5,3,3,5,3
+Dog,"English Toy Spaniel","King Charles Spaniel, Toy Spaniel, Prince Charles Spaniel, Ruby Spaniel, Blenheim Spaniel, Charlies",10,12,1000,1800,5,3,3,3,2,2,3
+Dog,"Boerboel","South African Boerboel, South African Mastiff",10,12,1500,2000,3,4,2,1,2,2,3
+Dog,"Briard","Berger De Brie, Berger Briard",10,12,1000,1200,4,4,3,5,3,5,3
+Dog,"Manchester Terrier (Toy, Standard)","Black and Tan Manchester, Black and Tan Terrier, English Toy Terrier",14,16,600,1000,5,3,3,1,2,4,1
+Dog,"Norfolk Terrier","None",12,15,2000,2500,5,4,4,3,3,4,1
+Dog,"Tibetan Mastiff","Dok-Khyi, Tsang-khyi",10,14,2500,3500,3,4,3,3,2,2,3
+Dog,"Australian Terrier","Aussie",12,15,600,800,5,4,1,3,4,4,1
+Dog,"Treeing Walker Coonhound","TWC, Walker",12,13,400,600,3,4,1,1,1,2,3
+Dog,"Bedlington Terrier","Rothbury Terrier, Rodbery Terrier",14,16,1800,2000,4,4,3,5,3,4,1
+Dog,"Xoloitzcuintli","Mexican Hairless, Xoloitzcuintli, Xoloitzcuintle, Xoloitzquintle, Xoloescuincle, Xolo, Xolito",14,20,600,800,5,4,5,2,1,2,1
+Dog,"Beauceron","Berger De Beauce, Bas-Rouge, French Shorthaired Shepherd, Beauce Shepherd",10,12,1200,1500,3,4,2,2,2,3,3
+Dog,"Berger Picard","Berger de Picardie, Picardy Shepherd, Picardy Sheepdog",12,15,2000,2500,4,5,3,3,2,3,3
+Dog,"Irish Red and White Setter","Irish R&W Setter, IRWS",11,13,800,1000,5,5,3,3,3,2,3
+Dog,"Redbone Coonhound","Redbone Hound, Reds",12,14,600,800,5,5,2,1,1,2,1
+Dog,"Clumber Spaniel","Retired Gentleman's Spaniel",10,12,800,1200,5,4,3,3,3,4,5
+Dog,"Lakeland Terrier","None",12,16,1200,1800,3,4,1,5,2,3,3
+Dog,"German Pinscher","Standard Pinscher, Glatthaariger Pinscher",12,15,1400,1600,3,4,3,1,4,2,1
+Dog,"Field Spaniel","Field",11,15,800,1000,5,5,3,2,3,4,3
+Dog,"Petit Basset Griffon Vendeen","PBGV",11,14,1200,1600,3,4,3,3,4,3,3
+Dog,"Affenpinscher","Affen, Affie, African Terrier, Monkey Dog, Monkey Terrier",12,14,800,1200,5,1,3,5,3,4,1
+Dog,"Irish Water Spaniel","Whiptail, Shannon Spaniel, Rat Tail Spaniel, Bog Dog",10,12,800,1000,4,5,2,4,4,1,1
+Dog,"Greyhound","English Greyhound",10,13,500,800,5,5,2,1,3,4,3
+Dog,"Ibizan Hound","Ca Eivissenc, Podenco Ibicenco, Ibizan Warren Hound",12,14,800,1200,4,4,2,3,3,4,3
+Dog,"Icelandic Sheepdog","Icelandic Spitz, Iceland Dog, ?slenskur Fj?rhundur, Islandsk Farehond, Friaar Dog, Canis Islandicus",12,15,800,1000,5,5,3,3,2,2,3
+Dog,"Scottish Deerhound","Deerhound",8,10,1000,1200,3,5,2,2,5,4,3
+Dog,"Sealyham Terrier","Welsh Border Terrier, Cowley Terrier",14,16,800,1000,5,4,3,3,2,4,1
+Dog,"American Water Spaniel","AWS, American Brown Spaniel, American Brown Water Spaniel",10,13,800,1000,5,5,3,3,3,4,1
+Dog,"Wirehaired Vizsla","Dr?tsz?r? magyar vizsla, Hungarian Wirehaired Vizsla",12,14,800,1000,5,4,3,2,3,2,1
+Dog,"Plott Hound","Plotthund, Plott",12,14,300,500,3,4,2,1,1,2,1
+Dog,"Puli","Hungarian Puli, Hungarian Water Dog, Pulik",12,16,1000,1200,3,4,3,5,3,5,1
+Dog,"Portuguese Podengo Pequeno","Podengo Portugues, Portuguese Warren Hound",12,14,800,1000,3,4,2,1,1,2,3
+Dog,"Entlebucher Mountain Dog","Entlebucher Sennenhund, Entelbucher Cattle Dog, Entlebucher",11,15,1000,1200,3,4,3,1,3,2,3
+Dog,"Spanish Water Dog","Perro De Agua Espa?ol, SWD",10,14,1000,1200,4,2,2,3,3,2,1
+Dog,"Swedish Vallhund","V?stg?taspets",12,14,700,900,5,5,5,3,2,2,5
+Dog,"Curly-Coated Retriever","Curly, CCR",8,12,600,800,5,4,3,2,2,4,3
+Dog,"Kuvasz","Hungarian Kuvasz",10,12,1200,1500,3,4,3,3,4,4,4
+Dog,"Otterhound","None",10,12,500,600,3,4,3,4,2,4,4
+Dog,"Dandie Dinmont Terrier","Dandie, Hindlee Terrier",12,14,1400,1600,5,4,3,3,2,3,1
+Dog,"Pharaoh Hound","Kelb Tal-Fenek (in Country Of Origin), Pharaoh",12,14,1800,2000,5,4,2,1,1,4,1
+Dog,"Polish Lowland Sheepdog","Polski Owczarek Nizinny (Polish), Valee Sheepdog, PON, Nizinny, PLS",10,12,1500,2000,3,4,3,4,2,2,1
+Dog,"American English Coonhound","English Coonhound, Redtick Coonhound",10,12,1000,1200,4,4,3,1,3,2,3
+Dog,"Lowchen","Petit Chien Lion, Little Lion Dog",12,15,300,500,5,4,5,5,2,2,1
+Dog,"Sussex Spaniel","Sussex",12,15,2400,2600,5,5,3,3,3,2,3
+Dog,"Finnish Lapphund","Lapinkoira, Suomenlapinkoira",12,15,600,800,5,5,3,5,2,2,5
+Dog,"Norwegian Buhund","Norsk Buhund, Norwegian Sheepdog",13,15,800,1000,5,5,5,1,2,2,3
+Dog,"Chinook","None",12,15,800,1000,5,5,3,3,3,2,3
+Dog,"Pyrenean Shepherd","Berger Des Pyr?n?es, Petit Berger, Pyrenees Sheepdog, Pyr Shep",15,17,500,800,2,4,3,3,2,2,3
+Dog,"Komondor","Hungarian Sheepdog, Hungarian Komondor, Mop Dog",10,12,800,1200,3,2,4,4,3,2,1
+Dog,"Skye Terrier","None",12,14,700,900,5,3,2,3,4,4,1
+Dog,"Finnish Spitz","Barking Bird Dog, Finnish Hunting Dog, Finnish Spets, Finsk Spets, Loulou Finois, Suomalainen Pystykorva, Suomenpystykorva",12,15,500,700,3,4,4,3,4,4,3
+Dog,"Glen of Imaal Terrier","Glen, Glennie, Irish Glen Of Imaal Terrier",12,14,800,1000,5,4,1,2,3,2,1
+Dog,"Canaan Dog","Kalef K'Naani, Canaanite Dog",12,14,800,1200,5,5,2,1,3,2,3
+Dog,"Cesky Terrier","Bohemian Terrier",12,15,300,500,3,4,3,5,3,2,1
+Dog,"Cirneco dell?Etna","Cirneco",12,15,800,1000,5,4,3,2,1,2,1
+Dog,"Bergamasco","Bergamasco Shepherd Dog, Bergermaschi",13,15,1000,1200,5,5,3,2,2,2,1
+Dog,"Harrier","None",10,12,300,400,3,5,2,1,1,2,3
+Dog,"English Foxhound","Foxhound",10,13,800,1200,4,5,2,1,1,4,3
+Dog,"Norwegian Lundehund","Norsk Lundehund, Norwegian Puffin Dog, Lundehund",10,12,400,600,4,4,2,3,3,2,3
+Dog,"American Foxhound","Foxhound",10,12,400,600,5,5,2,1,1,4,1
+Dog,"Miniature Poodle","Caniche, Barbone, Chien Canne, Carniche Moyen, Barboncino Miniatura, French Poodle, Pudle, Zwergpudel",14,16,1000,1500,5,5,4,5,3,5,1
+Dog,"Toy Poodle","Caniche, Barbone, Chien Canne, Teacup Poodle, French Poodle, Pudle, Teddy Poodle",14,16,1000,1500,5,5,4,5,3,5,1
+Dog,"Miniature Shar Pei","Mini Shar Pei, Mini Pei, Miniature Chinese Shar-Pei",9,11,1500,2000,3,1,3,3,5,4,1
+Dog,"Grand Bleu de Gascogne","?",12,14,1000,1500,3,4,3,3,3,2,2
+Dog,"Kangal Dog","Sivas Kangal, Turkish Kangal",12,15,600,800,3,4,3,3,3,2,5
+Dog,"Spanish Greyhound","Spanish Galgo, Galgo Espa?ol, Galgo",12,15,600,800,3,4,3,1,1,2,3
+Dog,"Africanis","African Dog, Bantu Dog, Hottentot Hunting Dog, Khoikhoi Dog, Tswana breed dog, Zulu Dog, Umbwa Wa Ki-Shenzi",10,12,300,500,3,4,3,2,2,2,2
+Dog,"Aidi","A?di, Atlas Mountain Dog, Atlas Shepherd Dog, Berber Dog, Chien de l'Atlas, Chien de Montagne de l'Atlas, Kabyle Dog",10,12,300,500,3,4,3,2,2,2,3
+Dog,"Akbash Dog","Akbash, Akba? ?oban K?pe?i, Coban Kopegi",10,12,500,700,3,4,3,3,2,2,3
+Dog,"Alano Espanol","Spanish Alano, Spanish Bulldog, Alano",11,14,600,800,3,4,3,1,2,3,2
+Dog,"Alapaha Blue Blood Bulldog","Otto Bulldog, Catahoula Bulldog",12,15,800,1200,5,4,3,1,2,3,1
+Dog,"Alaskan Klee Kai","AKK, Klee Kai, Miniature Alaskan Husky, Mini Husky",12,15,1000,1500,3,4,3,2,2,3,1
+Dog,"American Mastiff","AM Mastiff",10,12,1000,1500,0,0,0,0,0,0,0
+Dog,"American Pit Bull Terrier","APBT, Pit Bull, Pitty, Pit, Pitbull",10,14,500,700,3,4,1,1,2,3,3
+Dog,"American Staghound","Staghound",10,12,800,1000,3,4,3,1,2,3,3
+Dog,"American White Shepherd","White Swiss Shepherd, White Canadian Shepherd, White German Shepherd, WS, WGSD",12,14,600,800,3,4,3,3,2,3,3
+Dog,"Appenzeller Sennenhund","Appenzeller, Appenzell Cattle Dog, Appenzeller Mountain Dog, Entlebucher Sennenhund, Entlebucher Mountain Dog",12,15,600,800,3,4,3,2,2,3,3
+Dog,"Dogo Argentino","Argentine Dogo, Argentine Mastiff, Dogo",10,12,2800,5000,3,3,1,2,2,3,3
+Dog,"Ariege Pointer","Braque de l?Ari?ge, Ariege Pointing Dog",10,13,600,800,0,0,0,0,0,0,0
+Dog,"Ariegeois","Ariege Hound",10,12,600,800,3,4,3,2,2,3,3
+Dog,"Australian Bulldog","Aussie Bulldog",10,12,500,700,3,4,3,3,2,3,3
+Dog,"Australian Kelpie","Australian Sheepdog, Australischer Kelpie, Kelpie, Barb",10,14,500,700,5,4,3,1,2,3,3
+Dog,"Australian Stumpy Tail Cattle Dog","Stumpy Tail Cattle Dog, Stumpy, Stumpy Tail, Heeler",10,13,500,700,5,4,3,2,2,3,3
+Dog,"Austrian Black and Tan Hound","?sterreichische Glatthaarige, Bracke, Austrian Smooth-haired Hound, Brandlbracke",12,14,400,600,3,4,3,2,2,3,3
+Dog,"Austrian Pinscher","?sterreichischer Kurzhaarpinscher, Austrian Shorthaired Pinscher",12,14,300,500,3,4,3,2,2,3,5
+Dog,"Azawakh","Idi, Hanshee, Oska, Rawondu, Bareeru, Wulo, Tuareg Sloughi",10,12,600,800,2,2,1,1,3,3,3
+Dog,"Barbet","French Water Dog",13,15,600,1000,4,4,3,3,2,3,1
+Dog,"Basset Bleu de Gascogne","Blue Gascony Basset, Bleus de Gascogne",11,13,600,800,4,4,3,2,2,3,3
+Dog,"Basset Fauve de Bretagne","Fawn Brittany Basset",11,14,600,800,3,4,3,2,2,3,3
+Dog,"Bavarian Mountain Hound","Bavarian Mountain Scenthound, Bayerischer Gebirgsschwei",10,12,600,800,2,4,3,2,2,3,3
+Dog,"Belgian Shepherd Laekenois","Belgian Laekenois, Belgian Shepherd Dog (Laeken), Chien de Berger Belge",10,12,500,800,4,4,3,2,2,3,1
+Dog,"Black Mouth Cur","Southern Cur, Yellow Black Mouth, East Texas Cur, American Black Mouth Cur",12,18,300,500,3,3,2,2,2,3,2
+Dog,"Black Norwegian Elkhound","Norsk Elghund Sort, Norsk Elghund Black, Black Elkhound, Norwegian Moose Dog (black)",12,15,500,700,3,4,2,3,2,3,2
+Dog,"Blue Lacy","Lacy Dog, Lacy Game Dog, Texas Blue Lacy, Lacy Hog Dog",14,16,600,800,3,3,2,1,2,3,1
+Dog,"Blue Picardy Spaniel","?pagneul Bleu de Picardie, Bleu Picard",12,14,600,800,3,4,3,3,2,3,3
+Dog,"Bohemian Shepherd","Chodsk? pes, Czech Sheepdog, Bohemian Herder, Chodenhund",10,13,700,900,3,4,4,2,2,3,3
+Dog,"Bouvier des Ardennes","Ardennes Cattle Dog",12,14,700,900,0,0,0,0,0,0,0
+Dog,"Bracco Italiano","Italian Pointer, Italian Pointing Dog, Bracco",11,13,700,900,4,4,2,2,2,3,3
+Dog,"Braque du Bourbonnais","Bourbonnais Pointer, Bourbonnais Pointing Dog",13,15,900,1200,3,4,2,2,3,3,3
+Dog,"Brazilian Terrier","Fox Paulistinha, Terrier Brasileiro",12,14,500,700,3,4,4,1,3,3,2
+Dog,"Briquet Griffon Vendeen","?",10,12,400,600,0,0,0,0,0,0,0
+Dog,"Bukovina Sheepdog","Bucovina Shepherd, Romanian Bukovina Sheepdog",10,14,800,1000,3,4,2,3,2,3,3
+Dog,"Bulgarian Shepherd Dog","Karakachan, Karakachan Shepherd Dog",12,14,800,1000,3,4,3,3,2,3,3
+Dog,"C?o da Serra de Aires","Portuguese Sheepdog, Portuguese Shepherd Dog",12,14,800,1000,3,4,3,2,2,3,3
+Dog,"Canadian Eskimo Dog","Qimmiq, Canadian Inuit Dog, Esquimaux Dog, Exquimaux Husky",12,14,1000,1200,3,4,3,3,2,3,3
+Dog,"Caravan Hound","Mudhol Dog, Maratha Hound, Pashmi Hound",10,15,800,1000,3,4,2,2,2,3,2
+Dog,"Carolina Dog","American Dingo, Dixie Dingo, North American Native Dog, Indian's Dog, Ol' Yaller, Yeller Dog, Yellow Dog",12,14,800,1000,3,3,3,2,2,3,3
+Dog,"Carpathian Sheepdog","Ciob?nesc Rom?nesc Carpatin, Romanian Carpathian Shepherd, C?ine Ciob?nesc Carpatin, Carpathian Sheepdog, Carpatin, Romanian Carpatin Herder, Rumanian Carpathian",12,14,800,1000,2,3,2,2,2,3,3
+Dog,"Catahoula Bulldog","Catahoula Bulldogge, American Mastahoula",10,14,500,700,3,4,2,2,2,3,1
+Dog,"Catahoula Leopard Dog","Catahoula Hog Dog, Catahoula Cur, Catahoula Hound",11,13,300,500,3,4,3,1,3,3,2
+Dog,"Catalan Sheepdog","Gos d'Atura Catal?, Catalan shepherd, Catalan sheepdog",12,14,600,800,3,4,3,3,2,3,3
+Dog,"Caucasian Ovcharka","Azerbaijani Shepherd Dog, Georgian Nagazi, Caucasian Mountain Dog, Circassian Sheep Dog, Armenian Khobun Dog, Kars (Kafkas) K?pe?i",10,12,1500,2000,4,4,3,2,2,3,3
+Dog,"Central Asian Ovtcharka","Central Asian Shepherd Dog, Alabai, CAO, Aziat",12,14,1200,2000,4,4,3,3,2,3,3
+Dog,"Cesky Fousek","Bohemian Wirehaired Pointing Griffon, Rough-coated Bohemian Pointer, Barbu tch?que",12,15,500,700,3,4,2,2,2,3,3
+Dog,"Chart Polski","Polish Greyhound",10,12,800,1000,0,0,0,0,0,0,0
+Dog,"Cockapoo","Cockerpoo, Spoodle (AU), Cockerdoodle",14,18,900,1100,5,4,5,5,3,3,3
+Dog,"Croatian Sheepdog","Hrvatski ov?ar, Kroatischer Sch?ferhund",12,14,1000,1200,4,4,3,2,2,3,3
+Dog,"Czechoslovakian Wolfdog","Slovak Wolfdog, Czech Wolfdog, Ceskoslovensky Vlcak",12,15,400,600,3,4,2,2,2,3,3
+Dog,"Danish-Swedish Farmdog","Scanian Terrier, Dansk-svensk g?rdshund",10,15,600,800,5,4,3,2,2,3,3
+Dog,"Deutsche Bracke","German Bracke, Olper Bracke, Westphalian Bracke",10,12,400,600,0,0,0,0,0,0,0
+Dog,"Dingo","Australian Dingo, Australian Native Dog, Maliki, Warrigal, Noggum, Mirigung, Boolomo",16,20,500,1000,5,3,3,1,2,3,3
+Dog,"Drentse Patrijshond","Dutch Partridge Dog, Drentsche Patrijshond, Drent",12,14,500,700,0,0,0,0,0,0,0
+Dog,"Drever","Swedish Dachsbracke",12,14,600,800,5,4,3,2,2,3,3
+Dog,"Dunker","Norwegian Hound",10,12,500,700,0,0,0,0,0,0,0
+Dog,"Dutch Shepherd Dog","Dutch Shepherd, Hollandse Herder",12,15,1000,1200,5,3,2,2,3,3,3
+Dog,"Dutch Smoushond","Dutch Ratter, Hollandse Smoushond",12,15,500,700,3,4,4,2,2,3,2
+Dog,"East Siberian Laika","Vostotchno-Sibirskaia Laika",12,15,800,1000,0,0,0,0,0,0,0
+Dog,"East-European Shepherd","Byelorussian Ovcharka, Vostochnoevropejskaya Ovcharka, VEO",10,14,800,1000,4,3,2,3,2,3,3
+Dog,"English Shepherd","Farm Collie (This name is also used for the Scotch Collie)",12,15,800,1000,4,4,4,2,2,3,3
+Dog,"Eurasier","Eurasian, Eurasian Spitz, Eurasian Dog",11,13,800,1000,5,4,4,3,2,3,3
+Dog,"Fila Brasileiro","Brazilian Mastiff, Brazilian Molosser, C?o de Fila",9,11,1000,1300,3,2,1,2,2,3,3
+Dog,"Finnish Hound","Suomenajokoira, Finnish Bracke",10,12,600,800,3,4,3,2,2,3,3
+Dog,"French Spaniel","Epagneul Fran?ais, French Setter, Canadian Setter",10,12,600,800,3,4,3,2,2,3,5
+Dog,"Francais Blanc et Noir","Chien Francais Blanc Et Noir",10,12,500,700,0,0,0,0,0,0,0
+Dog,"Jagdterrier","Deutscher Jagdterrier, German Jagdterrier, German Hunting Terrier, German Hunt Terrier",12,15,300,500,3,4,2,2,2,3,3
+Dog,"German Longhaired Pointer","Deutscher Langhaariger, Deutscher Langhaariger Vorstehhund, Pointer (German Longhaired), Langhaar, GLP",10,12,600,800,3,4,3,3,2,3,3
+Dog,"Goldendoodle","Curly Golden, Curly Retriever, Goldenpoo",10,15,600,800,5,5,4,5,4,3,3
+Dog,"Polish Hunting Dog","Polish Scenthound, Go?czy Polski",10,13,600,800,0,0,0,0,0,0,0
+Dog,"Grand Basset Griffon Vendeen","Basset Griffon Vend?en (Grand), GBGV",12,15,600,800,0,0,0,0,0,0,0
+Dog,"Greenland Dog","Gronlandshunden, Greenland Husky",12,14,500,800,3,4,4,1,3,2,0
+Dog,"Griffon bleu de Gascogne","None",12,15,400,500,4,4,3,2,2,2,0
+Dog,"Large Munsterlander","Grosser Munsterlander Vorstehhund, Vorstehhund",11,13,400,500,5,5,3,3,2,3,3
+Dog,"Hamilton Hound","Hamiltonstovare, Swedish Foxhound",11,13,400,500,4,4,3,1,3,3,1
+Dog,"Hokkaido Dog","Ainu dog, D?-ken, Ainu-ken, Seta",11,13,300,400,3,4,3,4,3,3,3
+Dog,"Hovawart","Hovie",10,14,1000,1200,5,4,3,2,3,3,3
+Dog,"J?mthund","Swedish Elkhound",11,14,,,3,0,0,3,0,3,0
+Dog,"Japanese Spitz","None",10,16,500,800,4,5,4,4,3,3,3
+Dog,"Japanese Terrier","Nippon Terrier, Nihon Teria, Nihon Terrier, Kobe Terrier, Mikado Terrier, Oyuki (Snowy) Terrier",12,15,,,0,0,0,0,0,0,0
+Dog,"Korean Jindo","Korean Jindo Dog, Chindo, Jindo, Jindo Gae, Jindogae, Jin Dog, Jindo Gu",12,15,300,400,4,4,3,4,2,3,3
+Dog,"Karelian Bear Dog","KBD, Karjalankarhukoira, Karelsk Bj?rnhund",10,12,1000,1200,4,3,3,4,1,3,3
+Dog,"Kishu Ken","Kishu, Kishu Inu",11,13,300,500,4,4,3,4,1,3,3
+Dog,"Kooikerhondje","Kooiker Dog, Nederlandse Kooikerhondje, Small Dutch Waterfowl Dog",12,14,600,800,5,4,3,2,3,3,3
+Dog,"Koolie","Australian Koolie, German Koolie, German Coolie",16,18,400,600,4,4,3,2,3,3,3
+Dog,"Kromfohrlander","L?nder, Kromi",12,14,400,600,4,4,3,3,3,3,3
+Dog,"Lancashire Heeler","Ormskirk Heeler, Ormskirk Terrier",12,15,600,800,4,4,3,2,3,3,3
+Dog,"Landseer","Landseer Newfoundland",9,11,2000,2500,3,4,3,3,3,3,3
+Dog,"Lapponian Herder","Lapland Reindeer Dog, Reindeer Herder, Lapinporokoira",10,12,600,800,0,0,0,0,0,0,0
+Dog,"McNab","McNab Border Collie, McNab Sheepdog, McNab Herding Dog",13,15,300,500,3,4,3,3,3,3,3
+Dog,"Miniature Bulldog","Bull-Pug, Mini-Bulldog, English Toy Bulldog",9,12,800,1200,3,4,3,1,3,3,3
+Dog,"Mudi","Hungarian Mudi, Canis Ovilis Fenyesi",12,14,800,1000,5,4,3,2,2,3,3
+Dog,"Small Munsterlander","Kleiner M?nsterl?nder, Vorstehhund, Spion, Heidewachtel",12,14,800,1000,5,5,3,3,2,3,3
+Dog,"New Guinea Singing Dog","New Guinea Highland Dog, Singer, NGSD, New Guinea Wild Dog, Hallstrom Dog",16,19,,,0,0,0,0,0,0,0
+Dog,"Norrbottenspets","Nordic Spitz, Norrbottenspitz, Pohjanpystykorva",12,15,600,800,3,4,3,2,2,3,3
+Dog,"Northern Inuit Dog","NI dog",12,14,800,1000,4,4,3,3,3,3,3
+Dog,"Olde English Bulldogge","OEB, English Bulldog",11,13,1800,2500,5,4,3,1,3,3,3
+Dog,"Pakistani Mastiff","Bully Kutta, Sindhi Mastiff, Bully",8,10,800,1200,3,2,2,1,2,3,1
+Dog,"Patterdale Terrier","Black Fell Terrier",11,14,500,700,4,4,3,2,2,3,3
+Dog,"Perro de Presa Canario","Canary Catch Dog, Canarian Molosser, Presa Canario, Dogo Canario, Presa, Canary Mastiff",9,11,1200,3000,2,2,1,2,4,3,1
+Dog,"Perro de Presa Mallorquin","Ca de Bou, Mallorquin Mastiff, Mallorquin Bulldog, Perro Dogo Mallorquin, Majorca Mastiff, Majorcan Bulldog, Silverbacks",10,12,800,1000,2,2,1,2,4,3,1
+Dog,"Peruvian Inca Orchid","Flower Dog, Inca Hairless Dog, Viringo, Dielmatian, Perro Sin Pelo del Per",11,13,400,600,4,4,3,1,3,3,1
+Dog,"Picardy Spaniel","?pagneul Picard",12,14,600,800,0,0,0,0,3,3,0
+Dog,"Plummer Terrier","None",12,15,500,700,3,4,3,2,3,3,2
+Dog,"Portuguese Pointer","Perdigueiro Portugues, Portuguese Pointing Dog",12,14,800,1000,2,3,2,2,2,3,2
+Dog,"Prazsky Krysarik","Prague Ratter",12,15,500,700,4,3,3,2,3,3,2
+Dog,"Pudelpointer","None",9,11,800,1000,0,0,0,0,0,0,0
+Dog,"Pumi","Hungarian Pumi, Hungarian Herding Terrier",12,15,800,1000,5,4,3,3,2,3,3
+Dog,"Rafeiro do Alentejo","Alentejo Mastiff, Portuguese Mastiff, Mutt of Alentejo",10,12,800,1000,3,4,2,2,2,3,3
+Dog,"Rajapalayam","Poligar hound, Indian Sight-Hound",10,12,200,300,3,3,1,2,3,3,1
+Dog,"Russian Spaniel","Rosyjski Spaniel",14,16,300,500,4,4,3,2,2,3,3
+Dog,"Russian Toy","Russian Toy Terrier, Russian Terrier, Moscow Toy Terrier, Moscovian Miniature Terrier",11,13,600,800,4,4,3,2,2,3,2
+Dog,"Saarloos wolfdog","Saarloos Wolfhound",10,12,800,1000,3,3,3,2,2,3,3
+Dog,"Sapsali","Sapsal Gae, Sapsaree, Exorcising Dog, Ghost Hunting Clever Dog",11,13,300,500,0,0,0,0,0,0,0
+Dog,"Sarplaninac","Yugoslavian Shepherd Dog",11,13,800,1000,3,3,2,2,4,3,3
+Dog,"Schapendoes","Dutch Schapendoes, Nederlandse Schapendoes",12,14,500,700,3,4,4,2,2,3,3
+Dog,"Seppala Siberian Sleddog","?",12,16,600,800,3,3,3,2,2,3,3
+Dog,"Shikoku dog","Kochi-ken, Mikawa Inu, Japanese Wolfdog",10,12,500,700,3,3,3,2,2,3,3
+Dog,"Shiloh Shepherd dog","Shiloh",12,14,800,1000,3,4,3,2,2,3,3
+Dog,"Silken Windhound","Silken",16,20,800,1000,4,4,3,3,2,3,3
+Dog,"Sloughi","Berber Greyhound, Sloughi Moghrebi",12,15,800,1000,1,4,1,1,2,3,3
+Dog,"Smaland Hound","Sm?landsst?vare",12,14,600,800,0,0,0,0,0,0,0
+Dog,"South Russian Ovcharka","Ioujnorousska?a Ovtcharka, South Russian Sheepdog, Ukrainian Ovcharka, Yuzhak, South Ukrainian Ovcharka, South Russian Shepherd Dog",9,11,800,1000,5,3,3,4,2,3,3
+Dog,"Pont-Audemer Spaniel","Epagneul Pont-Audemer, Setter of Pont-Audemer",12,14,500,700,0,0,0,0,0,0,0
+Dog,"Spanish Mastiff","Mast?n Espa?ol, Mast?n de Espa?a, Mastin de la Mancha, Mastin de Extremadura, Mastin de Leon",10,12,600,800,3,4,3,2,2,3,3
+Dog,"Serbian Hound","Balkan Hound, Srpski goni?, Balkanski goni?",12,14,500,700,0,0,0,0,0,0,0
+Dog,"Swedish Lapphund","None",10,13,400,600,5,5,5,3,1,3,5
+Dog,"Tamaskan Dog","Tamaskan husky, Tam",14,16,600,800,3,4,2,2,2,3,3
+Dog,"Thai Bangkaew Dog","TBD, Bangkaew",10,12,400,600,0,0,0,0,0,0,0
+Dog,"Thai Ridgeback","Mah Thai, Thai Dog, Mah Thai Lung Arn",11,13,600,800,5,4,1,1,2,3,3
+Dog,"Tornjak","Bosnian Shepherd Dog, Croatian Mountain Dog, Bosnian and Herzegovinian Shepherd Dog",10,12,600,800,4,4,3,4,2,3,3
+Dog,"Tosa","Tosa Inu, Tosa Ken, Tosa T?ken, Japanese Fighting Dog, Japanese Mastiff, Tosa Fighting Dog, Japanese Tosa",10,12,600,800,2,3,2,1,2,3,3
+Dog,"Karst Shepherd","?",11,12,800,1000,3,4,3,3,3,2,3
+Dog,"Transylvanian Hound","Erd?lyi kop?, Hungarian Hound, Transylvanian Scent Hound",10,12,600,800,0,0,0,0,0,0,0
+Dog,"Volpino Italiano","Cane de Quirinale, Florentine Spitz, Italian Spitz, Volpino",14,16,600,800,4,4,3,3,2,3,3
+Dog,"West Siberian Laika","Zapadno-Sibirska?a La?ka",14,16,600,800,4,4,3,3,2,3,3
+Dog,"Wetterhoun","Frisian Water Dog, Dutch Spaniel, Otterhoun",12,14,500,700,3,4,3,1,2,3,3
+Dog,"Alaskan Husky","None",10,15,1000,1500,5,3,1,3,2,3,3
+Dog,"Alopekis","Alopecis, Alepouditsa, Bobis, Bouboudi, Moropa, Venetaki",14,16,300,500,4,4,4,2,2,3,3
+Dog,"American Bulldog","AmBulldog, AM Bulldog, American Bulldogge, American Bulldoggee, Old Country Bulldog",10,12,700,900,4,4,2,1,2,3,3
+Dog,"Andalusian Hound","Andalusian Podenco, Podenco Andaluz, Podenco Andalusian, Podenco Maneto Andalusian",10,12,300,500,0,0,0,0,0,0,0
+Dog,"Basset Artesien Normand","Basset Art?sien Normand, BAN",13,15,300,500,5,4,3,2,2,3,3
+Dog,"Beagle-Harrier","Beagle Harrier, French Beagle-Harrier",12,14,400,600,0,0,0,0,0,0,0
+Dog,"Beaglier","None",13,15,800,1200,0,0,0,0,0,0,0
+Dog,"Bolognese dog","Bichon Bolognese, Bolognese Toy Dog",13,15,1200,1500,5,4,5,5,3,3,1
+Dog,"Bull Arab","Aussie Pig Dog, Australian Pig Dog",12,15,300,400,3,4,2,2,2,3,3
+Dog,"Mountain Feist","Treeing Feist, American Treeing Feist, American Feist, Mountain Terrier",10,15,300,400,3,3,2,2,2,3,3
+Dog,"Texas Heeler","Aussie Shepherd Heeler",13,15,200,400,3,3,2,1,2,3,3
+Dog,"Chippiparai","None",12,15,80,120,0,0,0,0,0,0,0
+Dog,"Chizer","Schnauchi, Schnizer",12,15,300,400,0,0,0,0,0,0,0
+Dog,"Cotonese","?",13,15,400,600,0,0,0,0,0,0,0
+Dog,"Taco Terrier","Toy Chitoxy, Toy Chisoxy, Toy Chiwoxy",13,15,300,400,0,0,0,0,0,0,0
+Dog,"Cairmal","Cairmal Terrier",12,15,400,600,0,0,0,0,0,0,0
+Dog,"King Shepherd","?",10,13,1500,2500,3,4,2,2,2,3,3
+Dog,"Kyi-Leo","KYE-LEO",12,15,600,800,4,4,4,2,2,3,1
+Dog,"Majestic Tree Hound","Majestic Treehound",10,13,600,800,0,0,0,0,0,0,0
+Dog,"Chorkie","Chia-Yorkie, Yorkie-Chi, Yorkiehuahua",12,14,300,400,0,0,0,0,0,0,0
+Dog,"Cockalier","Cockalier Spaniel",12,15,500,700,0,0,0,0,0,0,0
+Dog,"Dorgi","Dorgie",12,14,200,300,0,0,0,0,0,0,0
+Dog,"Dorkie","Dorkie Terrier",13,15,400,600,0,0,0,0,0,0,0
+Dog,"Double Doodle","North American Retriever, Golden Labradoodle",12,15,600,800,0,0,0,0,0,0,0
+Dog,"Maremma Sheepdog","Cane da Pastore, Maremmano-Abruzzese, Pastore Abruzzese, Pastore Maremmano, Abruzzo Sheepdog, Abruzzese Sheepdog, Maremma, Maremmano",11,13,600,800,3,4,4,3,3,2,3
+Dog,"Lucas Terrier","?",14,15,400,600,5,4,3,3,3,2,3
+Dog,"Lurcher","?",12,14,600,800,3,4,3,3,3,2,3
+Dog,"Mal-Shi","Malshi, Malti Zu, Malt-Tzu",12,15,800,1000,3,4,3,3,3,2,1
+Dog,"Shichon","Zuchon, Teddy Bear",12,15,800,1200,4,4,3,1,3,2,1
+Dog,"Slovensky Cuvac","Slovak Cuvac, Slovak Chuvach, Tatransky Cuvac, Slovak tschuvatsch",11,13,800,1200,3,4,3,3,3,2,3
+Dog,"Moscow Watchdog","Moskovskaya Storodzevay Sobaka",9,11,600,800,3,4,3,3,3,2,4
+Dog,"Stabyhoun","Beike, Friese Stabij, Stabij, Staby, Stabijhoun",13,14,600,800,3,4,3,1,3,2,4
+Dog,"Mountain Cur","?",12,16,300,500,3,4,3,1,3,2,1
+Dog,"Polish Tatra Sheepdog","Owczarek Podhalanski, Tatra Mountain Sheepdog, Polski Owczarek",10,12,600,800,3,4,3,1,3,2,2
+Dog,"Puggle","Beagle-Pug",10,15,600,800,5,4,3,3,3,2,5
+Dog,"Russian Tsvetnaya Bolonka","Bolonka Zwetna, Franzuskaya Bolonka, Russian Lapdogs, Colored Lap Dog",12,16,1500,1800,5,4,3,5,3,2,1
+Cat,"Exotic Shorthair","Exotic",12,15,500,700,5,4,3,3,4,3,4
+Cat,"Persian","Longhair, Persian Longhair, Shiraz, Shirazi",14,15,500,700,5,2,1,5,4,3,5
+Cat,"Maine Coon","Coon Cat, Maine Cat, Maine Shag, Snowshoe Cat, American Longhair, The Gentle Giants",12,15,500,1200,5,4,5,3,2,5,4
+Cat,"Ragdoll","Rag doll",12,17,800,1000,5,4,5,1,2,3,4
+Cat,"British Shorthair","Highlander, Highland Straight, Britannica",12,17,800,1200,5,4,5,2,2,3,1
+Cat,"American Shorthair","Domestic Shorthair",15,17,600,800,5,4,5,3,1,3,5
+Cat,"Abyssinian","None",14,15,500,700,5,4,4,1,4,5,1
+Cat,"Sphynx","Canadian Hairless, Canadian Sphynx",12,14,1300,1600,5,4,5,1,1,5,1
+Cat,"Siamese","Siam, Thai Cat",12,15,400,600,5,4,5,3,1,5,3
+Cat,"Scottish Fold","Scot Fold",11,14,400,600,5,4,5,3,1,4,3
+Cat,"Cornish Rex","None",11,14,700,800,5,4,5,1,1,5,1
+Cat,"Devon Rex","Pixie cat, Alien cat, Poodle cat",10,15,400,500,5,4,5,3,3,5,1
+Cat,"Oriental","Foreign Type",12,14,400,500,5,4,5,1,3,5,5
+Cat,"Norwegian Forest Cat","Skogkatt / Skaukatt, Norsk Skogkatt / Norsk Skaukatt, Weegie",12,16,600,800,5,4,5,3,3,4,3
+Cat,"Birman","Sacred Birman, Sacred Cat Of Burma",14,15,400,600,5,4,5,3,3,3,3
+Cat,"Burmese","None",15,16,500,600,5,4,5,1,3,5,1
+Cat,"Siberian","Moscow Semi-longhair, HairSiberian Forest Cat",12,15,1200,2500,5,4,5,3,2,5,3
+Cat,"Tonkinese","Tonk",14,16,500,700,5,4,5,3,3,5,5
+Cat,"Russian Blue","Archangel Blue, Archangel Cat",10,16,400,600,3,3,3,3,1,3,3
+Cat,"Egyptian Mau","Pharaoh Cat",18,20,500,800,2,4,3,1,2,4,4
+Cat,"Ocicat","None",12,14,400,600,5,4,5,1,3,5,5
+Cat,"Singapura","Drain Cat, Kucinta",12,15,500,700,5,4,5,1,1,5,3
+Cat,"Manx","Manks, Stubbin, Rumpy",12,14,200,400,5,4,5,3,1,5,3
+Cat,"Japanese Bobtail","Japanese Truncated Cat",14,16,400,600,5,4,5,3,1,5,3
+Cat,"Selkirk Rex","Shepherd Cat",14,15,600,800,5,4,5,3,1,3,1
+Cat,"American Curl","None",12,16,800,1200,5,4,5,2,1,3,3
+Cat,"Chartreux","None",12,15,500,700,5,4,5,5,1,4,3
+Cat,"Somali","Fox Cat, Long-Haired Abyssinian",12,16,400,600,5,4,4,3,4,5,3
+Cat,"Turkish Angora","Ankara",15,18,600,800,5,4,5,2,2,5,3
+Cat,"Colorpoint Shorthair","None",12,16,500,600,5,4,4,1,4,4,2
+Cat,"Balinese","Long-haired Siamese",10,15,500,600,5,4,5,3,3,5,3
+Cat,"Ragamuffin","None",12,16,800,1000,5,4,5,3,1,5,4
+Cat,"European Burmese","None",10,15,200,300,5,4,5,1,4,5,3
+Cat,"Bombay","Small black Panther",12,16,400,600,5,4,5,1,1,5,1
+Cat,"Havana Brown","Havana, HB",10,15,300,500,5,4,5,1,1,5,3
+Cat,"American Bobtail","None",11,15,500,700,5,4,5,3,4,5,5
+Cat,"Turkish Van","Turkish Cat, Swimming cat",12,17,200,300,5,4,5,2,1,5,3
+Cat,"Burmilla","None",10,15,400,600,5,4,4,3,1,3,1
+Cat,"LaPerm","None",10,14,400,600,5,4,5,1,1,5,2
+Cat,"LaPerm","Si-Sawat",10,15,600,800,5,4,5,1,1,5,1
+Cat,"American Wirehair","None",14,18,800,1200,5,4,5,1,1,4,3
+Cat,"American Wirehair","None",12,16,800,1200,5,4,5,1,3,5,3
+Cat,"California Spangled","Spangle",10,14,800,1500,5,4,5,1,1,5,1
+Cat,"Cymric","Spangle",8,14,200,400,5,4,5,3,2,5,5
+Cat,"Himalayan","Himalayan Persian, Colourpoint Persian, Longhaired Colourpoint, Himmy",9,15,300,500,5,2,2,5,4,3,5
+Cat,"Munchkin","None",10,15,300,500,5,4,5,3,1,5,3
+Cat,"Nebelung","Longhaired Russian Blue",11,16,300,500,5,4,4,3,2,5,3
+Cat,"Pixie-bob","None",13,16,600,800,5,4,5,3,2,5,5
+Cat,"Savannah","None",17,20,400,600,5,4,5,3,1,5,3
+Cat,"Snowshoe","None",14,19,300,400,5,4,5,3,1,5,3
+Cat,"Toyger","None",12,15,800,1000,5,4,5,1,4,5,4
+Cat,"York Chocolate","York",13,15,300,500,5,4,5,3,1,5,3
+Cat,"Aegean","None",9,12,300,400,5,4,4,3,1,4,3
+Cat,"Australian Mist","Spotted Mist",12,16,300,400,5,4,5,3,1,4,3
+Cat,"American Polydactyl","None",14,16,300,500,5,4,5,3,1,4,5
+Cat,"Arabian Mau","Alley cat",12,14,600,800,5,4,5,1,1,3,1
+Cat,"Malayan","None",12,18,300,500,5,4,5,1,1,3,1
+Cat,"Asian Semi-longhair","Tiffanie, Tiffany",12,15,300,500,5,4,5,3,4,3,3
+Cat,"Bambino","None",12,14,1000,3000,5,4,5,1,1,5,1
+Cat,"Brazilian Shorthair","None",14,20,400,600,5,4,5,1,1,3,1
+Cat,"British Semi-longhair","None",12,14,800,1200,5,4,5,5,1,5,1
+Cat,"Chantilly-Tiffany","Chantilly, Foreign Longhair",14,16,400,600,5,4,5,5,1,5,5
+Cat,"Chausie","Nile Cat",12,14,400,600,5,4,5,3,1,5,3
+Cat,"Cheetoh","?",12,14,500,800,5,4,5,1,1,5,1
+Cat,"Cyprus","Cypriot cat",12,15,300,600,5,4,5,3,1,3,3
