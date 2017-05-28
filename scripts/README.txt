@@ -30,5 +30,9 @@ $ python preprocess_breeds_extra.py
 Merging the original dataset and the additional data
 =======================================================================================
 Now we want to merge "preprocessed_extra.csv" with "preprocessed_train.csv" and
-"preprocessed_test.csv". To do so we run the following:
-$ python merge_data.py
+"preprocessed_test.csv". To do so we first map the breeds from the datasets
+using the edit distance similarity measure:
+$ python3 preprocess_breed_map.py
+
+This will create the file "preprocessed_breed_map.csv", which we then manually adjust
+so all the breeds have a correspondent line in the extra dataset.

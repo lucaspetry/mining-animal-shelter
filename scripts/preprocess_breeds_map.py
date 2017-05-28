@@ -1,6 +1,6 @@
 import csv
 
-MAX_DISTANCE = 4
+MAX_DISTANCE = 3
 
 # Edit distance between strings
 def distance(s1, s2):
@@ -25,9 +25,14 @@ with open('../data/preprocessed_train.csv', 'r') as f:
 	reader = csv.DictReader(f, delimiter=',')
 	for row in reader:
 		csv_file.append(row)
+        
+with open('../data/preprocessed_test.csv', 'r') as f:
+	reader = csv.DictReader(f, delimiter=',')
+	for row in reader:
+		csv_file.append(row)
 
 extra_csv_file = []
-with open('../data/extra_breeds_list.csv', 'r') as f:
+with open('../data/preprocessed_extra.csv', 'r') as f:
 	reader = csv.DictReader(f, delimiter=',')
 	for row in reader:
 		extra_csv_file.append(row)
@@ -37,14 +42,13 @@ breed_map = {}
 for i in range(len(csv_file)):
 	item = csv_file[i]
 	if item['breed1'] not in breed_map:
-		breed_map.update({item['breed1']: {'csv': [], 'extra': ''}})
-	breed_map[item['breed1']]['csv'].append(i)
+		breed_map.update({item['breed1']: {'csv': 'OK', 'extra': '', 'distance': 99999}})
 
 
 approximation_count = 0
 for i in range(len(extra_csv_file)):
 	breed = extra_csv_file[i]['breed']
-	smallest_distance = [-1, '']
+	smallest_distance = [99999, '']
 
 	for breed_cmp in breed_map:
 		breed_distance = distance(breed.lower(), breed_cmp.lower())
@@ -54,8 +58,9 @@ for i in range(len(extra_csv_file)):
 		if breed_distance == 0:
 			break
 
-	if smallest_distance[0] != -1:
-		breed_map[smallest_distance[1]]['extra'] = i
+	if smallest_distance[0] != 99999:
+		breed_map[smallest_distance[1]]['extra'] = breed
+		breed_map[smallest_distance[1]]['distance'] = smallest_distance[0]
 		if smallest_distance[0] > 0:
 			approximation_count += 1
 			# print(breed + '\n' + smallest_distance[1] + '\nDistance: ' + str(smallest_distance[0]) + '\n########################################')
@@ -63,14 +68,18 @@ for i in range(len(extra_csv_file)):
 # print('########################################\n')
 
 # print('breeds in '+filename+' without any matches:')
+
+output = open("../data/preprocessed_breed_map.csv", 'w')
+output.truncate()
+output.write("orig_breed,extra_breed,edit_distance\n")
+
 count = 0
 for item in breed_map:
+	output.write("\"" + item + "\",\"" + str(breed_map[item]['extra']) + "\"," + str(breed_map[item]['distance']) + "\n")
+	output.flush()
 	if breed_map[item]['extra'] is '':
-		# print(item)
 		count += 1
 
-print('Total de raças em "'+filename+'": ', len(breed_map))
-print('Total de raças em "'+filename+'" sem match: ', count)
- 
-# print('\n\n\n\n')
-# print(breed_map)
+output.close()
+print('Total de raças: ', len(breed_map))
+print('Total de raças sem match: ', count)
