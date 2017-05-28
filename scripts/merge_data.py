@@ -2,32 +2,32 @@ import csv
 
 MAX_DISTANCE = 4
 
+# Edit distance between strings
 def distance(s1, s2):
-    if len(s1) > len(s2):
-        s1, s2 = s2, s1
+	if len(s1) > len(s2):
+		s1, s2 = s2, s1
 
-    distances = range(len(s1) + 1)
-    for i2, c2 in enumerate(s2):
-        distances_ = [i2+1]
-        for i1, c1 in enumerate(s1):
-            if c1 == c2:
-                distances_.append(distances[i1])
-            else:
-                distances_.append(1 + min((distances[i1], distances[i1 + 1], distances_[-1])))
-        distances = distances_
-    return distances[-1]
+	distances = range(len(s1) + 1)
+	for i2, c2 in enumerate(s2):
+		distances_ = [i2+1]
+		for i1, c1 in enumerate(s1):
+			if c1 == c2:
+				distances_.append(distances[i1])
+			else:
+				distances_.append(1 + min((distances[i1], distances[i1 + 1], distances_[-1])))
+		distances = distances_
+	return distances[-1]
 
 
 # Open csv files
-filename = 'trainProcessed.csv'
 csv_file = []
-with open('../data/'+filename, 'r') as f:
+with open('../data/preprocessed_train.csv', 'r') as f:
 	reader = csv.DictReader(f, delimiter=',')
 	for row in reader:
 		csv_file.append(row)
 
 extra_csv_file = []
-with open('../data/dogs_breeds_list_info.csv', 'r') as f:
+with open('../data/extra_breeds_list.csv', 'r') as f:
 	reader = csv.DictReader(f, delimiter=',')
 	for row in reader:
 		extra_csv_file.append(row)
@@ -48,12 +48,11 @@ for i in range(len(extra_csv_file)):
 
 	for breed_cmp in breed_map:
 		breed_distance = distance(breed.lower(), breed_cmp.lower())
-		if breed_distance <= MAX_DISTANCE:
-			if smallest_distance[0] == -1 or breed_distance < smallest_distance[0]:
-				smallest_distance[0] = breed_distance # Stores the smallest distance so far
-				smallest_distance[1] = breed_cmp # Stores who has the smallest distance so far
-			if breed_distance == 0:
-				break
+		if (breed_distance <= MAX_DISTANCE) and (breed_distance < smallest_distance[0]):
+			smallest_distance[0] = breed_distance # Stores the smallest distance so far
+			smallest_distance[1] = breed_cmp # Stores who has the smallest distance so far
+		if breed_distance == 0:
+			break
 
 	if smallest_distance[0] != -1:
 		breed_map[smallest_distance[1]]['extra'] = i
