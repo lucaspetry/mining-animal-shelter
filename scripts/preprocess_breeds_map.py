@@ -42,7 +42,7 @@ breed_map = {}
 for i in range(len(csv_file)):
 	item = csv_file[i]
 	if item['breed1'] not in breed_map:
-		breed_map.update({item['breed1']: {'csv': 'OK', 'extra': '', 'distance': 99999}})
+		breed_map.update({item['breed1']: {'csv': 'OK', 'extra': '', 'distance': 99999, 'type': item['animalType'],  'breed2': item['breed2']}})
 
 
 approximation_count = 0
@@ -71,11 +71,11 @@ for i in range(len(extra_csv_file)):
 
 output = open("../data/preprocessed_breed_map.csv", 'w')
 output.truncate()
-output.write("orig_breed1,extra_breed,edit_distance\n")
+output.write("type,orig_breed1,orig_breed2,extra_breed,edit_distance\n")
 
 count = 0
 for item in breed_map:
-	output.write("\"" + item + "\",\"" + str(breed_map[item]['extra']) + "\"," + str(breed_map[item]['distance']) + "\n")
+	output.write(str(breed_map[item]['type']) + ",\"" + item + "\",\"" + str(breed_map[item]['breed2']) + "\",\"" + str(breed_map[item]['extra']) + "\"," + str(breed_map[item]['distance']) + "\n")
 	output.flush()
 	if breed_map[item]['extra'] is '':
 		count += 1

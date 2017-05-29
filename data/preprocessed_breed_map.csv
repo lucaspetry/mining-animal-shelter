@@ -1,232 +1,232 @@
-orig_breed1,extra_breed,edit_distance
-Field Spaniel,Field Spaniel,0
-Skye Terrier,Skye Terrier,0
-Toy Fox Terrier,Toy Fox Terrier,0
-Golden Retriever,Golden Retriever,0
-Papillon,Papillon,0
-Nova Scotia Duck Tolling Retriever,Nova Scotia Duck Tolling Retriever,0
-Brittany,Brittany,0
-Jack Russell Terrier,Jack Russell Terrier,0
-Norwich Terrier,Norwich Terrier,0
-Ibizan Hound,Ibizan Hound,0
-Lowchen,Lowchen,0
-Glen Of Imaal,Glen of Imaal Terrier,99999
-English Cocker Spaniel,English Cocker Spaniel,0
-Black Mouth Cur,Black Mouth Cur,0
-British Shorthair,British Shorthair,0
-Bedlington Terr,Bedlington Terrier,0
-Chartreux,Chartreux,0
-Akita,Akita,0
-Beagle,Beagle,0
-Gordon Setter,Gordon Setter,0
-Coton De Tulear,Coton De Tulear,0
-St. Bernard Rough Coat,St. Bernard (Saint Bernard),99999
-Russian Blue,Russian Blue,0
-Entlebucher,Entlebucher Mountain Dog,99999
-Smooth Fox Terrier,Smooth Fox Terrier,0
-English Bulldog,Bulldog,99999
-Boykin Span,Boykin Spaniel,0
-Exotic Shorthair,Exotic Shorthair,0
-Miniature Pinscher,Miniature Pinscher,0
-Carolina Dog,Carolina Dog,0
-Mexican Hairless,Xoloitzcuintli,99999
-Ocicat,Ocicat,0
-Norwegian Forest Cat,Norwegian Forest Cat,0
-Dachshund Stan,"Dachshund (Toy, Miniature, Standard)",99999
-Ragdoll,Ragdoll,0
-Schipperke,Schipperke,0
-Shiba Inu,Shiba Inu,0
-Afghan Hound,Afghan Hound,0
-American Eskimo,"American Eskimo Dog (Toy, Miniature, Standard)",99999
-Saluki,Saluki,0
-Dogue De Bordeaux,Dogue de Bordeaux,0
-German Shepherd,German Shepherd,0
-Great Dane,Great Dane,0
-Border Collie,Border Collie,0
-Cocker Spaniel,American Cocker Spaniel,99999
-Picardy Sheepdog,Berger Picard,99999
-Bengal,,99999
-Snowshoe,Snowshoe,0
-Dachshund Wirehair,,99999
-Tonkinese,Tonkinese,0
-Italian Greyhound,Italian Greyhound,0
-Mastiff,Mastiff,0
-Pomeranian,Pomeranian,0
-Airedale Terrier,Airedale Terrier,0
-Alaskan Malamute,Alaskan Malamute,0
-Dogo Argentino,Dogo Argentino,0
-Himalayan,Himalayan,0
-Turkish Angora,Turkish Angora,0
-Boerboel,Boerboel,0
-Staffordshire,American Staffordshire Terrier,99999
-Dachshund Longhair,,99999
-Treeing Walker Coonhound,Treeing Walker Coonhound,0
-Border Terrier,Border Terrier,0
-English Coonhound,American English Coonhound,99999
-Bruss Griffon,Brussels Griffon,0
-Spanish Mastiff,Spanish Mastiff,0
-Javanese,,99999
-Australian Cattle Dog,Australian Cattle Dog,0
-Silky Terrier,Silky Terrier,0
-Australian Terrier,Australian Terrier,0
-Balinese,Balinese,0
-Samoyed,Samoyed,0
-Cane Corso,Cane Corso,0
-Belgian Tervuren,Belgian Tervuren,0
-Dutch Shepherd,Dutch Shepherd Dog,99999
-West Highland,West Highland White Terrier,99999
-Munchkin Longhair,,99999
-Queensland Heeler,Australian Cattle Dog,99999
-Kuvasz,Kuvasz,0
-Persian,Persian,0
-Otterhound,Otterhound,0
-Blue Lacy,Blue Lacy,0
-American Wirehair,American Wirehair,0
-Keeshond,Keeshond,0
-Boston Terrier,Boston Terrier,0
-Miniature Poodle,Miniature Poodle,0
-Leonberger,Leonberger,0
-Presa Canario,Perro de Presa Canario,99999
-Landseer,Landseer,0
-American Staffordshire Terrier,American Staffordshire Terrier,0
-Pekingese,Pekingese,0
-Bearded Collie,Bearded Collie,0
-Finnish Spitz,Finnish Spitz,0
-Domestic Longhair,,99999
-Cornish Rex,Cornish Rex,0
-Norfolk Terrier,Norfolk Terrier,0
-Bichon Frise,Bichon Frise,0
-Abyssinian,Abyssinian,0
-French Bulldog,French Bulldog,0
-Maine Coon,Maine Coon,0
-Japanese Chin,Japanese Chin,0
-Rat Terrier,Rat Terrier,0
-Pharaoh Hound,Pharaoh Hound,0
-Bull Terrier,Bull Terrier,0
-Standard Schnauzer,Standard Schnauzer,0
-Irish Wolfhound,Irish Wolfhound,0
-Eng Toy Spaniel,English Toy Spaniel,99999
-Miniature Schnauzer,Miniature Schnauzer,0
-Pug,Pug,0
-Welsh Terrier,Welsh Terrier,0
-Australian Kelpie,Australian Kelpie,0
-Rottweiler,Rottweiler,0
-American Shorthair,American Shorthair,0
-Hovawart,Hovawart,0
-Burmese,Burmese,0
-Chihuahua Shorthair,,99999
-Siberian Husky,Siberian Husky,0
-Flat Coat Retriever,Flat-Coated Retriever,0
-Cymric,Cymric,0
-German Pinscher,German Pinscher,0
-Alaskan Husky,Alaskan Husky,0
-Lhasa Apso,Lhasa Apso,0
-Chesa Bay Retr,Chesapeake Bay Retriever,99999
-Jindo,Korean Jindo,0
-English Shepherd,English Shepherd,0
-Harrier,Harrier,0
-Wirehaired Pointing Griffon,Wirehaired Pointing Griffon,0
-Pbgv,Petit Basset Griffon Vendeen,99999
-Sphynx,Sphynx,0
-Domestic Shorthair,American Shorthair,99999
-Chinese Sharpei,Chinese Shar-Pei,0
-Plott Hound,Plott Hound,0
-Scottish Fold,Scottish Fold,0
-Bulldog,Bulldog,0
-Catahoula,Catahoula Bulldog,99999
-Sealyham Terr,Sealyham Terrier,0
-Collie Rough,Collie,99999
-Manx,Manx,0
-Old English Bulldog,Olde English Bulldogge,0
-Turkish Van,Turkish Van,0
-Yorkshire Terrier,Yorkshire Terrier,0
-Australian Shepherd,Australian Shepherd,0
-Neapolitan Mastiff,Neapolitan Mastiff,0
-German Shorthair Pointer,German Shorthaired Pointer,0
-Standard Poodle,Poodle (Standard),99999
-Cardigan Welsh Corgi,Cardigan Welsh Corgi,0
-Whippet,Whippet,0
-Anatol Shepherd,Anatolian Shepherd Dog,99999
-English Foxhound,English Foxhound,0
-Scottish Terrier,Scottish Terrier,0
-Canaan Dog,Canaan Dog,0
-Bluetick Hound,Bluetick Coonhound,99999
-Labrador Retriever,Labrador Retriever,0
-Old English Sheepdog,Old English Sheepdog,0
-Dandie Dinmont,Dandie Dinmont Terrier,99999
-Great Pyrenees,Great Pyrenees,0
-Port Water Dog,Portuguese Water Dog,99999
-Munchkin Shorthair,Munchkin,99999
-Domestic Medium Hair,,99999
-Soft Coated Wheaten Terrier,Soft Coated Wheaten Terrier,0
-Redbone Hound,Redbone Coonhound,99999
-Greyhound,Greyhound,0
-Bernese Mountain Dog,Bernese Mountain Dog,0
-Angora,Turkish Angora,99999
-Irish Terrier,Irish Terrier,0
-Affenpinscher,Affenpinscher,0
-Siamese,Siamese,0
-English Setter,English Setter,0
-Basset Hound,Basset Hound,0
-Chow Chow,Chow Chow,0
-Bullmastiff,Bullmastiff,0
-Shetland Sheepdog,Shetland Sheepdog,0
-Feist,Mountain Feist,99999
-Black,Austrian Black and Tan Hound,99999
-American Pit Bull Terrier,American Pit Bull Terrier,0
-Chinese Crested,Chinese Crested,0
-Pointer,Pointer,0
-Basenji,Basenji,0
-Belgian Malinois,Belgian Malinois,0
-English Springer Spaniel,English Springer Spaniel,0
-German Wirehaired Pointer,German Wirehaired Pointer,0
-Japanese Bobtail,Japanese Bobtail,0
-Belgian Sheepdog,Belgian Sheepdog,0
-Chihuahua Longhair,Chihuahua,99999
-St. Bernard Smooth Coat,St. Bernard (Saint Bernard),99999
-Unknown,,99999
-Welsh Springer Spaniel,Welsh Springer Spaniel,0
-Havana Brown,Havana Brown,0
-Oriental Sh,Oriental,0
-Vizsla,Vizsla,0
-Dachshund,"Dachshund (Toy, Miniature, Standard)",99999
-Collie Smooth,,99999
-Beauceron,Beauceron,0
-Greater Swiss Mountain Dog,Greater Swiss Mountain Dog,0
-Norwegian Elkhound,Norwegian Elkhound,0
-Treeing Tennesse Brindle,,99999
-Parson Russell Terrier,Parson Russell Terrier,0
-Boxer,Boxer,0
-Swedish Vallhund,Swedish Vallhund,0
-English Pointer,Pointer,99999
-Spinone Italiano,Spinone Italiano,0
-American Bulldog,American Bulldog,0
-Shih Tzu,Shih Tzu,0
-Irish Setter,Irish Setter,0
-Pembroke Welsh Corgi,Pembroke Welsh Corgi,0
-Doberman Pinsch,Doberman Pinscher,0
-Tibetan Terrier,Tibetan Terrier,0
-Swiss Hound,,99999
-Dalmatian,Dalmatian,0
-Toy Poodle,Toy Poodle,0
-Treeing Cur,,99999
-Patterdale Terr,Patterdale Terrier,0
-American Foxhound,American Foxhound,0
-Pixiebob Shorthair,,99999
-Schnauzer Giant,,99999
-Wire Hair Fox Terrier,Wire Fox Terrier,99999
-Cairn Terrier,Cairn Terrier,0
-Manchester Terrier,"Manchester Terrier (Toy, Standard)",99999
-Bloodhound,Bloodhound,0
-Newfoundland,Newfoundland,0
-Devon Rex,Devon Rex,0
-Cavalier Span,Cavalier King Charles Spaniel,99999
-Podengo Pequeno,Portuguese Podengo Pequeno,99999
-Bull Terrier Miniature,Miniature Bull Terrier,99999
-Bombay,Bombay,0
-Pit Bull,American Pit Bull Terrier,99999
-Rhod Ridgeback,Rhodesian Ridgeback,0
-Weimaraner,Weimaraner,0
-Maltese,Maltese,0
-Havanese,Havanese,0
-Tibetan Spaniel,Tibetan Spaniel,0
+type,orig_breed1,orig_breed2,extra_breed,edit_distance
+Cat,Abyssinian,,Abyssinian,0
+Dog,Affenpinscher,,Affenpinscher,0
+Dog,Afghan Hound,,Afghan Hound,0
+Dog,Airedale Terrier,,Airedale Terrier,0
+Dog,Akita,Pit Bull,Akita,0
+Dog,Alaskan Husky,,Alaskan Husky,0
+Dog,Alaskan Malamute,German Shepherd,Alaskan Malamute,0
+Dog,American Bulldog,,American Bulldog,0
+Dog,English Coonhound,,American English Coonhound,99999
+Dog,American Eskimo,,"American Eskimo Dog (Toy, Miniature, Standard)",99999
+Dog,American Foxhound,,American Foxhound,0
+Dog,Pit Bull,,American Pit Bull Terrier,99999
+Dog,American Pit Bull Terrier,,American Pit Bull Terrier,0
+Cat,Domestic Shorthair,,American Shorthair,99999
+Cat,American Shorthair,,American Shorthair,0
+Dog,Staffordshire,,American Staffordshire Terrier,99999
+Dog,American Staffordshire Terrier,,American Staffordshire Terrier,0
+Cat,American Wirehair,,American Wirehair,0
+Dog,Anatol Shepherd,Great Pyrenees,Anatolian Shepherd Dog,99999
+Dog,Queensland Heeler,,Australian Cattle Dog,99999
+Dog,Australian Cattle Dog,,Australian Cattle Dog,0
+Dog,Australian Kelpie,,Australian Kelpie,0
+Dog,Australian Shepherd,,Australian Shepherd,0
+Dog,Australian Terrier,,Australian Terrier,0
+Dog,Black,Tan Hound,Austrian Black and Tan Hound,99999
+Cat,Balinese,,Balinese,0
+Dog,Basenji,Chihuahua Longhair,Basenji,0
+Dog,Basset Hound,Labrador Retriever,Basset Hound,0
+Dog,Beagle,,Beagle,0
+Dog,Bearded Collie,,Bearded Collie,0
+Dog,Beauceron,,Beauceron,0
+Dog,Bedlington Terr,,Bedlington Terrier,0
+Dog,Belgian Malinois,,Belgian Malinois,0
+Dog,Belgian Sheepdog,,Belgian Sheepdog,0
+Dog,Belgian Tervuren,German Shepherd,Belgian Tervuren,0
+Dog,Picardy Sheepdog,,Berger Picard,99999
+Dog,Bernese Mountain Dog,Rottweiler,Bernese Mountain Dog,0
+Dog,Bichon Frise,,Bichon Frise,0
+Dog,Black Mouth Cur,,Black Mouth Cur,0
+Dog,Bloodhound,,Bloodhound,0
+Dog,Blue Lacy,,Blue Lacy,0
+Dog,Bluetick Hound,,Bluetick Coonhound,99999
+Dog,Boerboel,,Boerboel,0
+Cat,Bombay,,Bombay,0
+Dog,Border Collie,,Border Collie,0
+Dog,Border Terrier,,Border Terrier,0
+Dog,Boston Terrier,,Boston Terrier,0
+Dog,Boxer,Great Dane,Boxer,0
+Dog,Boykin Span,,Boykin Spaniel,0
+Cat,British Shorthair,,British Shorthair,0
+Dog,Brittany,Labrador Retriever,Brittany,0
+Dog,Bruss Griffon,,Brussels Griffon,0
+Dog,Bull Terrier,,Bull Terrier,0
+Dog,English Bulldog,,Bulldog,99999
+Dog,Bulldog,,Bulldog,0
+Dog,Bullmastiff,,Bullmastiff,0
+Cat,Burmese,,Burmese,0
+Dog,Cairn Terrier,Chihuahua Shorthair,Cairn Terrier,0
+Dog,Canaan Dog,Pit Bull,Canaan Dog,0
+Dog,Cane Corso,,Cane Corso,0
+Dog,Cardigan Welsh Corgi,Chihuahua Shorthair,Cardigan Welsh Corgi,0
+Dog,Carolina Dog,,Carolina Dog,0
+Dog,Catahoula,Labrador Retriever,Catahoula Bulldog,99999
+Dog,Cavalier Span,,Cavalier King Charles Spaniel,99999
+Cat,Chartreux,,Chartreux,0
+Dog,Chesa Bay Retr,,Chesapeake Bay Retriever,99999
+Dog,Chihuahua Longhair,,Chihuahua,99999
+Dog,Chinese Crested,,Chinese Crested,0
+Dog,Chinese Sharpei,Australian Cattle Dog,Chinese Shar-Pei,0
+Dog,Chow Chow,Pit Bull,Chow Chow,0
+Dog,Collie Smooth,German Shepherd,Collie,99999
+Dog,Collie Rough,,Collie,99999
+Cat,Cornish Rex,,Cornish Rex,0
+Dog,Coton De Tulear,,Coton De Tulear,0
+Cat,Cymric,,Cymric,0
+Dog,Dachshund Stan,,"Dachshund (Toy, Miniature, Standard)",99999
+Dog,Dachshund,Beagle,"Dachshund (Toy, Miniature, Standard)",99999
+Dog,Dalmatian,,Dalmatian,0
+Dog,Dandie Dinmont,,Dandie Dinmont Terrier,99999
+Cat,Devon Rex,,Devon Rex,0
+Dog,Doberman Pinsch,,Doberman Pinscher,0
+Dog,Dogo Argentino,,Dogo Argentino,0
+Dog,Dogue De Bordeaux,,Dogue de Bordeaux,0
+Dog,Dutch Shepherd,,Dutch Shepherd Dog,99999
+Dog,Cocker Spaniel,,English Cocker Spaniel,99999
+Dog,English Cocker Spaniel,,English Cocker Spaniel,0
+Dog,English Foxhound,,English Foxhound,0
+Dog,English Setter,,English Setter,0
+Dog,English Shepherd,,English Shepherd,0
+Dog,English Springer Spaniel,,English Springer Spaniel,0
+Dog,Eng Toy Spaniel,,English Toy Spaniel,99999
+Dog,Entlebucher,,Entlebucher Mountain Dog,99999
+Cat,Exotic Shorthair,,Exotic Shorthair,0
+Dog,Field Spaniel,,Field Spaniel,0
+Dog,Finnish Spitz,,Finnish Spitz,0
+Dog,Flat Coat Retriever,,Flat-Coated Retriever,0
+Dog,French Bulldog,Chihuahua Shorthair,French Bulldog,0
+Dog,German Pinscher,Whippet,German Pinscher,0
+Dog,German Shepherd,,German Shepherd,0
+Dog,German Shorthair Pointer,,German Shorthaired Pointer,0
+Dog,German Wirehaired Pointer,,German Wirehaired Pointer,0
+Dog,Glen Of Imaal,,Glen of Imaal Terrier,99999
+Dog,Golden Retriever,,Golden Retriever,0
+Dog,Gordon Setter,,Gordon Setter,0
+Dog,Great Dane,,Great Dane,0
+Dog,Great Pyrenees,,Great Pyrenees,0
+Dog,Greater Swiss Mountain Dog,,Greater Swiss Mountain Dog,0
+Dog,Greyhound,,Greyhound,0
+Dog,Harrier,,Harrier,0
+Cat,Havana Brown,,Havana Brown,0
+Dog,Havanese,,Havanese,0
+Cat,Himalayan,,Himalayan,0
+Dog,Hovawart,,Hovawart,0
+Dog,Ibizan Hound,,Ibizan Hound,0
+Dog,Irish Setter,Pit Bull,Irish Setter,0
+Dog,Irish Terrier,Labrador Retriever,Irish Terrier,0
+Dog,Irish Wolfhound,,Irish Wolfhound,0
+Dog,Italian Greyhound,,Italian Greyhound,0
+Dog,Jack Russell Terrier,Pit Bull,Jack Russell Terrier,0
+Cat,Japanese Bobtail,,Japanese Bobtail,0
+Dog,Japanese Chin,,Japanese Chin,0
+Dog,Keeshond,,Keeshond,0
+Dog,Jindo,,Korean Jindo,0
+Dog,Kuvasz,Labrador Retriever,Kuvasz,0
+Dog,Labrador Retriever,,Labrador Retriever,0
+Dog,Landseer,,Landseer,0
+Dog,Leonberger,,Leonberger,0
+Dog,Lhasa Apso,Miniature Poodle,Lhasa Apso,0
+Dog,Lowchen,,Lowchen,0
+Cat,Maine Coon,,Maine Coon,0
+Dog,Maltese,,Maltese,0
+Dog,Manchester Terrier,,"Manchester Terrier (Toy, Standard)",99999
+Cat,Manx,,Manx,0
+Dog,Mastiff,Pit Bull,Mastiff,0
+Dog,Bull Terrier Miniature,,Miniature Bull Terrier,99999
+Dog,Miniature Pinscher,Chihuahua Shorthair,Miniature Pinscher,0
+Dog,Miniature Poodle,,Miniature Poodle,0
+Dog,Miniature Schnauzer,,Miniature Schnauzer,0
+Dog,Feist,,Mountain Feist,99999
+Cat,Munchkin Longhair,,Munchkin,99999
+Cat,Munchkin Shorthair,,Munchkin,99999
+Dog,Neapolitan Mastiff,,Neapolitan Mastiff,0
+Dog,Newfoundland,Australian Cattle Dog,Newfoundland,0
+Dog,Norfolk Terrier,Border Terrier,Norfolk Terrier,0
+Dog,Norwegian Elkhound,,Norwegian Elkhound,0
+Cat,Norwegian Forest Cat,,Norwegian Forest Cat,0
+Dog,Norwich Terrier,,Norwich Terrier,0
+Dog,Nova Scotia Duck Tolling Retriever,Golden Retriever,Nova Scotia Duck Tolling Retriever,0
+Cat,Ocicat,,Ocicat,0
+Dog,Old English Sheepdog,,Old English Sheepdog,0
+Dog,Old English Bulldog,,Olde English Bulldogge,0
+Cat,Oriental Sh,,Oriental,0
+Dog,Otterhound,,Otterhound,0
+Dog,Papillon,Border Collie,Papillon,0
+Dog,Parson Russell Terrier,,Parson Russell Terrier,0
+Dog,Patterdale Terr,,Patterdale Terrier,0
+Dog,Pekingese,,Pekingese,0
+Dog,Pembroke Welsh Corgi,,Pembroke Welsh Corgi,0
+Dog,Presa Canario,,Perro de Presa Canario,99999
+Cat,Persian,,Persian,0
+Dog,Pbgv,,Petit Basset Griffon Vendeen,99999
+Dog,Pharaoh Hound,,Pharaoh Hound,0
+Dog,Plott Hound,Boxer,Plott Hound,0
+Dog,English Pointer,,Pointer,99999
+Dog,Pointer,,Pointer,0
+Dog,Pomeranian,,Pomeranian,0
+Dog,Standard Poodle,,Poodle (Standard),99999
+Dog,Podengo Pequeno,,Portuguese Podengo Pequeno,99999
+Dog,Port Water Dog,,Portuguese Water Dog,99999
+Dog,Pug,Beagle,Pug,0
+Cat,Ragdoll,,Ragdoll,0
+Dog,Rat Terrier,,Rat Terrier,0
+Dog,Redbone Hound,,Redbone Coonhound,99999
+Dog,Rhod Ridgeback,Labrador Retriever,Rhodesian Ridgeback,0
+Dog,Rottweiler,,Rottweiler,0
+Cat,Russian Blue,,Russian Blue,0
+Dog,Saluki,Labrador Retriever,Saluki,0
+Dog,Samoyed,,Samoyed,0
+Dog,Schipperke,,Schipperke,0
+Cat,Scottish Fold,,Scottish Fold,0
+Dog,Scottish Terrier,Cairn Terrier,Scottish Terrier,0
+Dog,Sealyham Terr,,Sealyham Terrier,0
+Dog,Shetland Sheepdog,,Shetland Sheepdog,0
+Dog,Shiba Inu,,Shiba Inu,0
+Dog,Shih Tzu,,Shih Tzu,0
+Cat,Siamese,,Siamese,0
+Dog,Siberian Husky,,Siberian Husky,0
+Dog,Silky Terrier,,Silky Terrier,0
+Dog,Skye Terrier,,Skye Terrier,0
+Dog,Smooth Fox Terrier,,Smooth Fox Terrier,0
+Cat,Snowshoe,,Snowshoe,0
+Dog,Soft Coated Wheaten Terrier,,Soft Coated Wheaten Terrier,0
+Dog,Spanish Mastiff,,Spanish Mastiff,0
+Cat,Sphynx,,Sphynx,0
+Dog,Spinone Italiano,,Spinone Italiano,0
+Dog,St. Bernard Smooth Coat,,St. Bernard (Saint Bernard),99999
+Dog,St. Bernard Rough Coat,,St. Bernard (Saint Bernard),99999
+Dog,Standard Schnauzer,,Standard Schnauzer,0
+Dog,Swedish Vallhund,,Swedish Vallhund,0
+Dog,Tibetan Spaniel,,Tibetan Spaniel,0
+Dog,Tibetan Terrier,,Tibetan Terrier,0
+Cat,Tonkinese,,Tonkinese,0
+Dog,Toy Fox Terrier,,Toy Fox Terrier,0
+Dog,Toy Poodle,Maltese,Toy Poodle,0
+Dog,Treeing Walker Coonhound,,Treeing Walker Coonhound,0
+Cat,Angora,,Turkish Angora,99999
+Cat,Turkish Angora,,Turkish Angora,0
+Cat,Turkish Van,,Turkish Van,0
+Dog,Vizsla,,Vizsla,0
+Dog,Weimaraner,,Weimaraner,0
+Dog,Welsh Springer Spaniel,,Welsh Springer Spaniel,0
+Dog,Welsh Terrier,,Welsh Terrier,0
+Dog,West Highland,Chihuahua Shorthair,West Highland White Terrier,99999
+Dog,Whippet,,Whippet,0
+Dog,Wire Hair Fox Terrier,,Wire Fox Terrier,99999
+Dog,Wirehaired Pointing Griffon,,Wirehaired Pointing Griffon,0
+Dog,Mexican Hairless,,Xoloitzcuintli,99999
+Dog,Yorkshire Terrier,,Yorkshire Terrier,0
+Dog,Treeing Tennesse Brindle,,,99999
+Dog,Unknown,,,99999
+Cat,Javanese,,,99999
+Dog,Schnauzer Giant,,,99999
+Cat,Pixiebob Shorthair,,,99999
+Dog,Swiss Hound,Pit Bull,,99999
+Dog,Treeing Cur,,,99999
+Dog,Chihuahua Shorthair,,,99999
+Cat,Bengal,,,99999
+Dog,Dachshund Wirehair,,,99999
+Cat,Domestic Medium Hair,,,99999
+Dog,Dachshund Longhair,,,99999
+Cat,Domestic Longhair,,,99999
