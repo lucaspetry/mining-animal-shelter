@@ -71,7 +71,7 @@ for i in range(len(extra_csv_file)):
 
 output = open("../data/preprocessed_breed_map.csv", 'w')
 output.truncate()
-output.write("orig_breed,extra_breed,edit_distance\n")
+output.write("orig_breed1,extra_breed,edit_distance\n")
 
 count = 0
 for item in breed_map:
