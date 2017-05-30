@@ -1,232 +1,232 @@
-type,orig_breed1,orig_breed2,extra_breed,edit_distance
-Cat,Abyssinian,,Abyssinian,0
-Dog,Affenpinscher,,Affenpinscher,0
-Dog,Afghan Hound,,Afghan Hound,0
-Dog,Airedale Terrier,,Airedale Terrier,0
-Dog,Akita,Pit Bull,Akita,0
-Dog,Alaskan Husky,,Alaskan Husky,0
-Dog,Alaskan Malamute,German Shepherd,Alaskan Malamute,0
-Dog,American Bulldog,,American Bulldog,0
-Dog,English Coonhound,,American English Coonhound,99999
-Dog,American Eskimo,,"American Eskimo Dog (Toy, Miniature, Standard)",99999
-Dog,American Foxhound,,American Foxhound,0
-Dog,Pit Bull,,American Pit Bull Terrier,99999
-Dog,American Pit Bull Terrier,,American Pit Bull Terrier,0
-Cat,Domestic Shorthair,,American Shorthair,99999
-Cat,American Shorthair,,American Shorthair,0
-Dog,Staffordshire,,American Staffordshire Terrier,99999
-Dog,American Staffordshire Terrier,,American Staffordshire Terrier,0
-Cat,American Wirehair,,American Wirehair,0
-Dog,Anatol Shepherd,Great Pyrenees,Anatolian Shepherd Dog,99999
-Dog,Queensland Heeler,,Australian Cattle Dog,99999
-Dog,Australian Cattle Dog,,Australian Cattle Dog,0
-Dog,Australian Kelpie,,Australian Kelpie,0
-Dog,Australian Shepherd,,Australian Shepherd,0
-Dog,Australian Terrier,,Australian Terrier,0
-Dog,Black,Tan Hound,Austrian Black and Tan Hound,99999
-Cat,Balinese,,Balinese,0
-Dog,Basenji,Chihuahua Longhair,Basenji,0
-Dog,Basset Hound,Labrador Retriever,Basset Hound,0
-Dog,Beagle,,Beagle,0
-Dog,Bearded Collie,,Bearded Collie,0
-Dog,Beauceron,,Beauceron,0
-Dog,Bedlington Terr,,Bedlington Terrier,0
-Dog,Belgian Malinois,,Belgian Malinois,0
-Dog,Belgian Sheepdog,,Belgian Sheepdog,0
-Dog,Belgian Tervuren,German Shepherd,Belgian Tervuren,0
-Dog,Picardy Sheepdog,,Berger Picard,99999
-Dog,Bernese Mountain Dog,Rottweiler,Bernese Mountain Dog,0
-Dog,Bichon Frise,,Bichon Frise,0
-Dog,Black Mouth Cur,,Black Mouth Cur,0
-Dog,Bloodhound,,Bloodhound,0
-Dog,Blue Lacy,,Blue Lacy,0
-Dog,Bluetick Hound,,Bluetick Coonhound,99999
-Dog,Boerboel,,Boerboel,0
-Cat,Bombay,,Bombay,0
-Dog,Border Collie,,Border Collie,0
-Dog,Border Terrier,,Border Terrier,0
-Dog,Boston Terrier,,Boston Terrier,0
-Dog,Boxer,Great Dane,Boxer,0
-Dog,Boykin Span,,Boykin Spaniel,0
-Cat,British Shorthair,,British Shorthair,0
-Dog,Brittany,Labrador Retriever,Brittany,0
-Dog,Bruss Griffon,,Brussels Griffon,0
-Dog,Bull Terrier,,Bull Terrier,0
-Dog,English Bulldog,,Bulldog,99999
-Dog,Bulldog,,Bulldog,0
-Dog,Bullmastiff,,Bullmastiff,0
-Cat,Burmese,,Burmese,0
-Dog,Cairn Terrier,Chihuahua Shorthair,Cairn Terrier,0
-Dog,Canaan Dog,Pit Bull,Canaan Dog,0
-Dog,Cane Corso,,Cane Corso,0
-Dog,Cardigan Welsh Corgi,Chihuahua Shorthair,Cardigan Welsh Corgi,0
-Dog,Carolina Dog,,Carolina Dog,0
-Dog,Catahoula,Labrador Retriever,Catahoula Bulldog,99999
-Dog,Cavalier Span,,Cavalier King Charles Spaniel,99999
-Cat,Chartreux,,Chartreux,0
-Dog,Chesa Bay Retr,,Chesapeake Bay Retriever,99999
-Dog,Chihuahua Longhair,,Chihuahua,99999
-Dog,Chinese Crested,,Chinese Crested,0
-Dog,Chinese Sharpei,Australian Cattle Dog,Chinese Shar-Pei,0
-Dog,Chow Chow,Pit Bull,Chow Chow,0
-Dog,Collie Smooth,German Shepherd,Collie,99999
-Dog,Collie Rough,,Collie,99999
-Cat,Cornish Rex,,Cornish Rex,0
-Dog,Coton De Tulear,,Coton De Tulear,0
-Cat,Cymric,,Cymric,0
-Dog,Dachshund Stan,,"Dachshund (Toy, Miniature, Standard)",99999
-Dog,Dachshund,Beagle,"Dachshund (Toy, Miniature, Standard)",99999
-Dog,Dalmatian,,Dalmatian,0
-Dog,Dandie Dinmont,,Dandie Dinmont Terrier,99999
-Cat,Devon Rex,,Devon Rex,0
-Dog,Doberman Pinsch,,Doberman Pinscher,0
-Dog,Dogo Argentino,,Dogo Argentino,0
-Dog,Dogue De Bordeaux,,Dogue de Bordeaux,0
-Dog,Dutch Shepherd,,Dutch Shepherd Dog,99999
-Dog,Cocker Spaniel,,English Cocker Spaniel,99999
-Dog,English Cocker Spaniel,,English Cocker Spaniel,0
-Dog,English Foxhound,,English Foxhound,0
-Dog,English Setter,,English Setter,0
-Dog,English Shepherd,,English Shepherd,0
-Dog,English Springer Spaniel,,English Springer Spaniel,0
-Dog,Eng Toy Spaniel,,English Toy Spaniel,99999
-Dog,Entlebucher,,Entlebucher Mountain Dog,99999
-Cat,Exotic Shorthair,,Exotic Shorthair,0
-Dog,Field Spaniel,,Field Spaniel,0
-Dog,Finnish Spitz,,Finnish Spitz,0
-Dog,Flat Coat Retriever,,Flat-Coated Retriever,0
-Dog,French Bulldog,Chihuahua Shorthair,French Bulldog,0
-Dog,German Pinscher,Whippet,German Pinscher,0
-Dog,German Shepherd,,German Shepherd,0
-Dog,German Shorthair Pointer,,German Shorthaired Pointer,0
-Dog,German Wirehaired Pointer,,German Wirehaired Pointer,0
-Dog,Glen Of Imaal,,Glen of Imaal Terrier,99999
-Dog,Golden Retriever,,Golden Retriever,0
-Dog,Gordon Setter,,Gordon Setter,0
-Dog,Great Dane,,Great Dane,0
-Dog,Great Pyrenees,,Great Pyrenees,0
-Dog,Greater Swiss Mountain Dog,,Greater Swiss Mountain Dog,0
-Dog,Greyhound,,Greyhound,0
-Dog,Harrier,,Harrier,0
-Cat,Havana Brown,,Havana Brown,0
-Dog,Havanese,,Havanese,0
-Cat,Himalayan,,Himalayan,0
-Dog,Hovawart,,Hovawart,0
-Dog,Ibizan Hound,,Ibizan Hound,0
-Dog,Irish Setter,Pit Bull,Irish Setter,0
-Dog,Irish Terrier,Labrador Retriever,Irish Terrier,0
-Dog,Irish Wolfhound,,Irish Wolfhound,0
-Dog,Italian Greyhound,,Italian Greyhound,0
-Dog,Jack Russell Terrier,Pit Bull,Jack Russell Terrier,0
-Cat,Japanese Bobtail,,Japanese Bobtail,0
-Dog,Japanese Chin,,Japanese Chin,0
-Dog,Keeshond,,Keeshond,0
-Dog,Jindo,,Korean Jindo,0
-Dog,Kuvasz,Labrador Retriever,Kuvasz,0
-Dog,Labrador Retriever,,Labrador Retriever,0
-Dog,Landseer,,Landseer,0
-Dog,Leonberger,,Leonberger,0
-Dog,Lhasa Apso,Miniature Poodle,Lhasa Apso,0
-Dog,Lowchen,,Lowchen,0
-Cat,Maine Coon,,Maine Coon,0
-Dog,Maltese,,Maltese,0
-Dog,Manchester Terrier,,"Manchester Terrier (Toy, Standard)",99999
-Cat,Manx,,Manx,0
-Dog,Mastiff,Pit Bull,Mastiff,0
-Dog,Bull Terrier Miniature,,Miniature Bull Terrier,99999
-Dog,Miniature Pinscher,Chihuahua Shorthair,Miniature Pinscher,0
-Dog,Miniature Poodle,,Miniature Poodle,0
-Dog,Miniature Schnauzer,,Miniature Schnauzer,0
-Dog,Feist,,Mountain Feist,99999
-Cat,Munchkin Longhair,,Munchkin,99999
-Cat,Munchkin Shorthair,,Munchkin,99999
-Dog,Neapolitan Mastiff,,Neapolitan Mastiff,0
-Dog,Newfoundland,Australian Cattle Dog,Newfoundland,0
-Dog,Norfolk Terrier,Border Terrier,Norfolk Terrier,0
-Dog,Norwegian Elkhound,,Norwegian Elkhound,0
-Cat,Norwegian Forest Cat,,Norwegian Forest Cat,0
-Dog,Norwich Terrier,,Norwich Terrier,0
-Dog,Nova Scotia Duck Tolling Retriever,Golden Retriever,Nova Scotia Duck Tolling Retriever,0
-Cat,Ocicat,,Ocicat,0
-Dog,Old English Sheepdog,,Old English Sheepdog,0
-Dog,Old English Bulldog,,Olde English Bulldogge,0
-Cat,Oriental Sh,,Oriental,0
-Dog,Otterhound,,Otterhound,0
-Dog,Papillon,Border Collie,Papillon,0
-Dog,Parson Russell Terrier,,Parson Russell Terrier,0
-Dog,Patterdale Terr,,Patterdale Terrier,0
-Dog,Pekingese,,Pekingese,0
-Dog,Pembroke Welsh Corgi,,Pembroke Welsh Corgi,0
-Dog,Presa Canario,,Perro de Presa Canario,99999
-Cat,Persian,,Persian,0
-Dog,Pbgv,,Petit Basset Griffon Vendeen,99999
-Dog,Pharaoh Hound,,Pharaoh Hound,0
-Dog,Plott Hound,Boxer,Plott Hound,0
-Dog,English Pointer,,Pointer,99999
-Dog,Pointer,,Pointer,0
-Dog,Pomeranian,,Pomeranian,0
-Dog,Standard Poodle,,Poodle (Standard),99999
-Dog,Podengo Pequeno,,Portuguese Podengo Pequeno,99999
-Dog,Port Water Dog,,Portuguese Water Dog,99999
-Dog,Pug,Beagle,Pug,0
-Cat,Ragdoll,,Ragdoll,0
-Dog,Rat Terrier,,Rat Terrier,0
-Dog,Redbone Hound,,Redbone Coonhound,99999
-Dog,Rhod Ridgeback,Labrador Retriever,Rhodesian Ridgeback,0
-Dog,Rottweiler,,Rottweiler,0
-Cat,Russian Blue,,Russian Blue,0
-Dog,Saluki,Labrador Retriever,Saluki,0
-Dog,Samoyed,,Samoyed,0
-Dog,Schipperke,,Schipperke,0
-Cat,Scottish Fold,,Scottish Fold,0
-Dog,Scottish Terrier,Cairn Terrier,Scottish Terrier,0
-Dog,Sealyham Terr,,Sealyham Terrier,0
-Dog,Shetland Sheepdog,,Shetland Sheepdog,0
-Dog,Shiba Inu,,Shiba Inu,0
-Dog,Shih Tzu,,Shih Tzu,0
-Cat,Siamese,,Siamese,0
-Dog,Siberian Husky,,Siberian Husky,0
-Dog,Silky Terrier,,Silky Terrier,0
-Dog,Skye Terrier,,Skye Terrier,0
-Dog,Smooth Fox Terrier,,Smooth Fox Terrier,0
-Cat,Snowshoe,,Snowshoe,0
-Dog,Soft Coated Wheaten Terrier,,Soft Coated Wheaten Terrier,0
-Dog,Spanish Mastiff,,Spanish Mastiff,0
-Cat,Sphynx,,Sphynx,0
-Dog,Spinone Italiano,,Spinone Italiano,0
-Dog,St. Bernard Smooth Coat,,St. Bernard (Saint Bernard),99999
-Dog,St. Bernard Rough Coat,,St. Bernard (Saint Bernard),99999
-Dog,Standard Schnauzer,,Standard Schnauzer,0
-Dog,Swedish Vallhund,,Swedish Vallhund,0
-Dog,Tibetan Spaniel,,Tibetan Spaniel,0
-Dog,Tibetan Terrier,,Tibetan Terrier,0
-Cat,Tonkinese,,Tonkinese,0
-Dog,Toy Fox Terrier,,Toy Fox Terrier,0
-Dog,Toy Poodle,Maltese,Toy Poodle,0
-Dog,Treeing Walker Coonhound,,Treeing Walker Coonhound,0
-Cat,Angora,,Turkish Angora,99999
-Cat,Turkish Angora,,Turkish Angora,0
-Cat,Turkish Van,,Turkish Van,0
-Dog,Vizsla,,Vizsla,0
-Dog,Weimaraner,,Weimaraner,0
-Dog,Welsh Springer Spaniel,,Welsh Springer Spaniel,0
-Dog,Welsh Terrier,,Welsh Terrier,0
-Dog,West Highland,Chihuahua Shorthair,West Highland White Terrier,99999
-Dog,Whippet,,Whippet,0
-Dog,Wire Hair Fox Terrier,,Wire Fox Terrier,99999
-Dog,Wirehaired Pointing Griffon,,Wirehaired Pointing Griffon,0
-Dog,Mexican Hairless,,Xoloitzcuintli,99999
-Dog,Yorkshire Terrier,,Yorkshire Terrier,0
-Dog,Treeing Tennesse Brindle,,,99999
-Dog,Unknown,,,99999
-Cat,Javanese,,,99999
-Dog,Schnauzer Giant,,Giant Schnauzer,99999
-Cat,Pixiebob Shorthair,,Pixie-bob,99999
-Dog,Swiss Hound,Pit Bull,,99999
-Dog,Treeing Cur,,,99999
-Dog,Chihuahua Shorthair,,Chihuahua,99999
-Cat,Bengal,,,99999
-Dog,Dachshund Wirehair,,Dachshund (Toy, Miniature, Standard),99999
-Cat,Domestic Medium Hair,,,99999
-Dog,Dachshund Longhair,,Dachshund (Toy, Miniature, Standard),99999
-Cat,Domestic Longhair,,,99999
+"type","breed1","breed2","breed","edit_distance"
+"Cat","Abyssinian","","Abyssinian","0"
+"Dog","Affenpinscher","","Affenpinscher","0"
+"Dog","Afghan Hound","","Afghan Hound","0"
+"Dog","Airedale Terrier","","Airedale Terrier","0"
+"Dog","Akita","Pit Bull","Akita","0"
+"Dog","Alaskan Husky","","Alaskan Husky","0"
+"Dog","Alaskan Malamute","German Shepherd","Alaskan Malamute","0"
+"Dog","American Bulldog","","American Bulldog","0"
+"Dog","English Coonhound","","American English Coonhound","99999"
+"Dog","American Eskimo","","American Eskimo Dog (Toy, Miniature, Standard)","99999"
+"Dog","American Foxhound","","American Foxhound","0"
+"Dog","Pit Bull","","American Pit Bull Terrier","99999"
+"Dog","American Pit Bull Terrier","","American Pit Bull Terrier","0"
+"Cat","Domestic Shorthair","","American Shorthair","99999"
+"Cat","American Shorthair","","American Shorthair","0"
+"Dog","Staffordshire","","American Staffordshire Terrier","99999"
+"Dog","American Staffordshire Terrier","","American Staffordshire Terrier","0"
+"Cat","American Wirehair","","American Wirehair","0"
+"Dog","Anatol Shepherd","Great Pyrenees","Anatolian Shepherd Dog","99999"
+"Dog","Queensland Heeler","","Australian Cattle Dog","99999"
+"Dog","Australian Cattle Dog","","Australian Cattle Dog","0"
+"Dog","Australian Kelpie","","Australian Kelpie","0"
+"Dog","Australian Shepherd","","Australian Shepherd","0"
+"Dog","Australian Terrier","","Australian Terrier","0"
+"Dog","Black","Tan Hound","Austrian Black and Tan Hound","99999"
+"Cat","Balinese","","Balinese","0"
+"Dog","Basenji","Chihuahua Longhair","Basenji","0"
+"Dog","Basset Hound","Labrador Retriever","Basset Hound","0"
+"Dog","Beagle","","Beagle","0"
+"Dog","Bearded Collie","","Bearded Collie","0"
+"Dog","Beauceron","","Beauceron","0"
+"Dog","Bedlington Terr","","Bedlington Terrier","0"
+"Dog","Belgian Malinois","","Belgian Malinois","0"
+"Dog","Belgian Sheepdog","","Belgian Sheepdog","0"
+"Dog","Belgian Tervuren","German Shepherd","Belgian Tervuren","0"
+"Dog","Picardy Sheepdog","","Berger Picard","99999"
+"Dog","Bernese Mountain Dog","Rottweiler","Bernese Mountain Dog","0"
+"Dog","Bichon Frise","","Bichon Frise","0"
+"Dog","Black Mouth Cur","","Black Mouth Cur","0"
+"Dog","Bloodhound","","Bloodhound","0"
+"Dog","Blue Lacy","","Blue Lacy","0"
+"Dog","Bluetick Hound","","Bluetick Coonhound","99999"
+"Dog","Boerboel","","Boerboel","0"
+"Cat","Bombay","","Bombay","0"
+"Dog","Border Collie","","Border Collie","0"
+"Dog","Border Terrier","","Border Terrier","0"
+"Dog","Boston Terrier","","Boston Terrier","0"
+"Dog","Boxer","Great Dane","Boxer","0"
+"Dog","Boykin Span","","Boykin Spaniel","0"
+"Cat","British Shorthair","","British Shorthair","0"
+"Dog","Brittany","Labrador Retriever","Brittany","0"
+"Dog","Bruss Griffon","","Brussels Griffon","0"
+"Dog","Bull Terrier","","Bull Terrier","0"
+"Dog","English Bulldog","","Bulldog","99999"
+"Dog","Bulldog","","Bulldog","0"
+"Dog","Bullmastiff","","Bullmastiff","0"
+"Cat","Burmese","","Burmese","0"
+"Dog","Cairn Terrier","Chihuahua Shorthair","Cairn Terrier","0"
+"Dog","Canaan Dog","Pit Bull","Canaan Dog","0"
+"Dog","Cane Corso","","Cane Corso","0"
+"Dog","Cardigan Welsh Corgi","Chihuahua Shorthair","Cardigan Welsh Corgi","0"
+"Dog","Carolina Dog","","Carolina Dog","0"
+"Dog","Catahoula","Labrador Retriever","Catahoula Bulldog","99999"
+"Dog","Cavalier Span","","Cavalier King Charles Spaniel","99999"
+"Cat","Chartreux","","Chartreux","0"
+"Dog","Chesa Bay Retr","","Chesapeake Bay Retriever","99999"
+"Dog","Chihuahua Longhair","","Chihuahua","99999"
+"Dog","Chinese Crested","","Chinese Crested","0"
+"Dog","Chinese Sharpei","Australian Cattle Dog","Chinese Shar-Pei","0"
+"Dog","Chow Chow","Pit Bull","Chow Chow","0"
+"Dog","Collie Smooth","German Shepherd","Collie","99999"
+"Dog","Collie Rough","","Collie","99999"
+"Cat","Cornish Rex","","Cornish Rex","0"
+"Dog","Coton De Tulear","","Coton De Tulear","0"
+"Cat","Cymric","","Cymric","0"
+"Dog","Dachshund Stan","","Dachshund (Toy, Miniature, Standard)","99999"
+"Dog","Dachshund","Beagle","Dachshund (Toy, Miniature, Standard)","99999"
+"Dog","Dalmatian","","Dalmatian","0"
+"Dog","Dandie Dinmont","","Dandie Dinmont Terrier","99999"
+"Cat","Devon Rex","","Devon Rex","0"
+"Dog","Doberman Pinsch","","Doberman Pinscher","0"
+"Dog","Dogo Argentino","","Dogo Argentino","0"
+"Dog","Dogue De Bordeaux","","Dogue de Bordeaux","0"
+"Dog","Dutch Shepherd","","Dutch Shepherd Dog","99999"
+"Dog","Cocker Spaniel","","English Cocker Spaniel","99999"
+"Dog","English Cocker Spaniel","","English Cocker Spaniel","0"
+"Dog","English Foxhound","","English Foxhound","0"
+"Dog","English Setter","","English Setter","0"
+"Dog","English Shepherd","","English Shepherd","0"
+"Dog","English Springer Spaniel","","English Springer Spaniel","0"
+"Dog","Eng Toy Spaniel","","English Toy Spaniel","99999"
+"Dog","Entlebucher","","Entlebucher Mountain Dog","99999"
+"Cat","Exotic Shorthair","","Exotic Shorthair","0"
+"Dog","Field Spaniel","","Field Spaniel","0"
+"Dog","Finnish Spitz","","Finnish Spitz","0"
+"Dog","Flat Coat Retriever","","Flat-Coated Retriever","0"
+"Dog","French Bulldog","Chihuahua Shorthair","French Bulldog","0"
+"Dog","German Pinscher","Whippet","German Pinscher","0"
+"Dog","German Shepherd","","German Shepherd","0"
+"Dog","German Shorthair Pointer","","German Shorthaired Pointer","0"
+"Dog","German Wirehaired Pointer","","German Wirehaired Pointer","0"
+"Dog","Glen Of Imaal","","Glen of Imaal Terrier","99999"
+"Dog","Golden Retriever","","Golden Retriever","0"
+"Dog","Gordon Setter","","Gordon Setter","0"
+"Dog","Great Dane","","Great Dane","0"
+"Dog","Great Pyrenees","","Great Pyrenees","0"
+"Dog","Greater Swiss Mountain Dog","","Greater Swiss Mountain Dog","0"
+"Dog","Greyhound","","Greyhound","0"
+"Dog","Harrier","","Harrier","0"
+"Cat","Havana Brown","","Havana Brown","0"
+"Dog","Havanese","","Havanese","0"
+"Cat","Himalayan","","Himalayan","0"
+"Dog","Hovawart","","Hovawart","0"
+"Dog","Ibizan Hound","","Ibizan Hound","0"
+"Dog","Irish Setter","Pit Bull","Irish Setter","0"
+"Dog","Irish Terrier","Labrador Retriever","Irish Terrier","0"
+"Dog","Irish Wolfhound","","Irish Wolfhound","0"
+"Dog","Italian Greyhound","","Italian Greyhound","0"
+"Dog","Jack Russell Terrier","Pit Bull","Jack Russell Terrier","0"
+"Cat","Japanese Bobtail","","Japanese Bobtail","0"
+"Dog","Japanese Chin","","Japanese Chin","0"
+"Dog","Keeshond","","Keeshond","0"
+"Dog","Jindo","","Korean Jindo","0"
+"Dog","Kuvasz","Labrador Retriever","Kuvasz","0"
+"Dog","Labrador Retriever","","Labrador Retriever","0"
+"Dog","Landseer","","Landseer","0"
+"Dog","Leonberger","","Leonberger","0"
+"Dog","Lhasa Apso","Miniature Poodle","Lhasa Apso","0"
+"Dog","Lowchen","","Lowchen","0"
+"Cat","Maine Coon","","Maine Coon","0"
+"Dog","Maltese","","Maltese","0"
+"Dog","Manchester Terrier","","Manchester Terrier (Toy, Standard)","99999"
+"Cat","Manx","","Manx","0"
+"Dog","Mastiff","Pit Bull","Mastiff","0"
+"Dog","Bull Terrier Miniature","","Miniature Bull Terrier","99999"
+"Dog","Miniature Pinscher","Chihuahua Shorthair","Miniature Pinscher","0"
+"Dog","Miniature Poodle","","Miniature Poodle","0"
+"Dog","Miniature Schnauzer","","Miniature Schnauzer","0"
+"Dog","Feist","","Mountain Feist","99999"
+"Cat","Munchkin Longhair","","Munchkin","99999"
+"Cat","Munchkin Shorthair","","Munchkin","99999"
+"Dog","Neapolitan Mastiff","","Neapolitan Mastiff","0"
+"Dog","Newfoundland","Australian Cattle Dog","Newfoundland","0"
+"Dog","Norfolk Terrier","Border Terrier","Norfolk Terrier","0"
+"Dog","Norwegian Elkhound","","Norwegian Elkhound","0"
+"Cat","Norwegian Forest Cat","","Norwegian Forest Cat","0"
+"Dog","Norwich Terrier","","Norwich Terrier","0"
+"Dog","Nova Scotia Duck Tolling Retriever","Golden Retriever","Nova Scotia Duck Tolling Retriever","0"
+"Cat","Ocicat","","Ocicat","0"
+"Dog","Old English Sheepdog","","Old English Sheepdog","0"
+"Dog","Old English Bulldog","","Olde English Bulldogge","0"
+"Cat","Oriental Sh","","Oriental","0"
+"Dog","Otterhound","","Otterhound","0"
+"Dog","Papillon","Border Collie","Papillon","0"
+"Dog","Parson Russell Terrier","","Parson Russell Terrier","0"
+"Dog","Patterdale Terr","","Patterdale Terrier","0"
+"Dog","Pekingese","","Pekingese","0"
+"Dog","Pembroke Welsh Corgi","","Pembroke Welsh Corgi","0"
+"Dog","Presa Canario","","Perro de Presa Canario","99999"
+"Cat","Persian","","Persian","0"
+"Dog","Pbgv","","Petit Basset Griffon Vendeen","99999"
+"Dog","Pharaoh Hound","","Pharaoh Hound","0"
+"Dog","Plott Hound","Boxer","Plott Hound","0"
+"Dog","English Pointer","","Pointer","99999"
+"Dog","Pointer","","Pointer","0"
+"Dog","Pomeranian","","Pomeranian","0"
+"Dog","Standard Poodle","","Poodle (Standard)","99999"
+"Dog","Podengo Pequeno","","Portuguese Podengo Pequeno","99999"
+"Dog","Port Water Dog","","Portuguese Water Dog","99999"
+"Dog","Pug","Beagle","Pug","0"
+"Cat","Ragdoll","","Ragdoll","0"
+"Dog","Rat Terrier","","Rat Terrier","0"
+"Dog","Redbone Hound","","Redbone Coonhound","99999"
+"Dog","Rhod Ridgeback","Labrador Retriever","Rhodesian Ridgeback","0"
+"Dog","Rottweiler","","Rottweiler","0"
+"Cat","Russian Blue","","Russian Blue","0"
+"Dog","Saluki","Labrador Retriever","Saluki","0"
+"Dog","Samoyed","","Samoyed","0"
+"Dog","Schipperke","","Schipperke","0"
+"Cat","Scottish Fold","","Scottish Fold","0"
+"Dog","Scottish Terrier","Cairn Terrier","Scottish Terrier","0"
+"Dog","Sealyham Terr","","Sealyham Terrier","0"
+"Dog","Shetland Sheepdog","","Shetland Sheepdog","0"
+"Dog","Shiba Inu","","Shiba Inu","0"
+"Dog","Shih Tzu","","Shih Tzu","0"
+"Cat","Siamese","","Siamese","0"
+"Dog","Siberian Husky","","Siberian Husky","0"
+"Dog","Silky Terrier","","Silky Terrier","0"
+"Dog","Skye Terrier","","Skye Terrier","0"
+"Dog","Smooth Fox Terrier","","Smooth Fox Terrier","0"
+"Cat","Snowshoe","","Snowshoe","0"
+"Dog","Soft Coated Wheaten Terrier","","Soft Coated Wheaten Terrier","0"
+"Dog","Spanish Mastiff","","Spanish Mastiff","0"
+"Cat","Sphynx","","Sphynx","0"
+"Dog","Spinone Italiano","","Spinone Italiano","0"
+"Dog","St. Bernard Smooth Coat","","St. Bernard (Saint Bernard)","99999"
+"Dog","St. Bernard Rough Coat","","St. Bernard (Saint Bernard)","99999"
+"Dog","Standard Schnauzer","","Standard Schnauzer","0"
+"Dog","Swedish Vallhund","","Swedish Vallhund","0"
+"Dog","Tibetan Spaniel","","Tibetan Spaniel","0"
+"Dog","Tibetan Terrier","","Tibetan Terrier","0"
+"Cat","Tonkinese","","Tonkinese","0"
+"Dog","Toy Fox Terrier","","Toy Fox Terrier","0"
+"Dog","Toy Poodle","Maltese","Toy Poodle","0"
+"Dog","Treeing Walker Coonhound","","Treeing Walker Coonhound","0"
+"Cat","Angora","","Turkish Angora","99999"
+"Cat","Turkish Angora","","Turkish Angora","0"
+"Cat","Turkish Van","","Turkish Van","0"
+"Dog","Vizsla","","Vizsla","0"
+"Dog","Weimaraner","","Weimaraner","0"
+"Dog","Welsh Springer Spaniel","","Welsh Springer Spaniel","0"
+"Dog","Welsh Terrier","","Welsh Terrier","0"
+"Dog","West Highland","Chihuahua Shorthair","West Highland White Terrier","99999"
+"Dog","Whippet","","Whippet","0"
+"Dog","Wire Hair Fox Terrier","","Wire Fox Terrier","99999"
+"Dog","Wirehaired Pointing Griffon","","Wirehaired Pointing Griffon","0"
+"Dog","Mexican Hairless","","Xoloitzcuintli","99999"
+"Dog","Yorkshire Terrier","","Yorkshire Terrier","0"
+"Dog","Treeing Tennesse Brindle","","","99999"
+"Dog","Unknown","","","99999"
+"Cat","Javanese","","","99999"
+"Dog","Schnauzer Giant","","Giant Schnauzer","99999"
+"Cat","Pixiebob Shorthair","","Pixie-bob","99999"
+"Dog","Swiss Hound","Pit Bull","","99999"
+"Dog","Treeing Cur","","","99999"
+"Dog","Chihuahua Shorthair","","Chihuahua","99999"
+"Cat","Bengal","","","99999"
+"Dog","Dachshund Wirehair","","Dachshund (Toy, Miniature, Standard)","99999"
+"Cat","Domestic Medium Hair","","","99999"
+"Dog","Dachshund Longhair","","Dachshund (Toy, Miniature, Standard)","99999"
+"Cat","Domestic Longhair","","","99999"
