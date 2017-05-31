@@ -35,4 +35,7 @@ using the edit distance similarity measure:
 $ python3 preprocess_breed_map.py
 
 This will create the file "preprocessed_breed_map.csv", which we then manually adjust
-so all the breeds have a correspondent line in the extra dataset.
+so all the breeds have a correspondent line in the extra dataset. Afterwards, we ran
+the script merge_data.py to build the final preprocessed files "merged_train.csv" and
+"merged_test.csv".
+$ python3 merge_data.py
